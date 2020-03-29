@@ -77,6 +77,6 @@ Zines made with queer icons (a website where you could also print these zines). 
 - [J.D.s](https://www.dazeddigital.com/music/gallery/22438/1/j-d-s) (queer punk zine from the 80's)
 - [Queercore](https://en.wikipedia.org/wiki/Queercore)
 
-    ![Images/1181809.jpg](Coding/1181809.jpg)
+    ![Images/1181809.jpg](Images/1181809.jpg)
 
-    ![Images/GoGo-RiotGrrl-poster-003.jpg](Coding/GoGo-RiotGrrl-poster-003.jpg)
+    ![Images/GoGo-RiotGrrl-poster-003.jpg](Images/GoGo-RiotGrrl-poster-003.jpg)
