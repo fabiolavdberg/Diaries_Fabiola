@@ -10,7 +10,7 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 
 - The diaries
 
-    ![Coding/Alle_Dagboeken.jpg] (Images/Alle_Dagboeken.jpg)
+    ![Coding/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
 
     ![Coding/Alle_Dagboeken2.jpg](Images/Alle_Dagboeken2.jpg)
 
@@ -58,11 +58,11 @@ A website where each day you can share your thoughts and feelings. On the websit
 
 ### First sketch for website
 
-![Images/Diary_Website_-01.jpg](Coding/Diary_Website_-01.jpg)
+![Images/Diary_Website_-01.jpg](Images/Diary_Website_-01.jpg)
 
-![Images/Diary_Website_-02.jpg](Coding/Diary_Website_-02.jpg)
+![Images/Diary_Website_-02.jpg](Images/Diary_Website_-02.jpg)
 
-![Images/Diary_Website_-03.jpg](Coding/Diary_Website_-03.jpg)
+![Images/Diary_Website_-03.jpg](Images/Diary_Website_-03.jpg)
 
 ---
 
