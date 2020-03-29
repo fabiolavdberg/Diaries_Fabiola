@@ -10,15 +10,15 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 
 - The diaries
 
-    ![Coding/Alle_Dagboeken.jpg] [Coding/Alle_Dagboeken.jpg]
+    ![Coding/Alle_Dagboeken.jpg] (Images/Alle_Dagboeken.jpg)
 
-    ![Coding/Alle_Dagboeken2.jpg](Coding/Alle_Dagboeken2.jpg)
+    ![Coding/Alle_Dagboeken2.jpg](Images/Alle_Dagboeken2.jpg)
 
-    ![Coding/Alle_Dagboeken3.jpg](Coding/Alle_Dagboeken3.jpg)
+    ![Coding/Alle_Dagboeken3.jpg](Images/Alle_Dagboeken3.jpg)
 
-    ![Coding/Alle_Dagboeken4.jpg](Coding/Alle_Dagboeken4.jpg)
+    ![Coding/Alle_Dagboeken4.jpg](Images/Alle_Dagboeken4.jpg)
 
-    ![Coding/Alle_Dagboeken5.jpg](Coding/Alle_Dagboeken5.jpg)
+    ![Coding/Alle_Dagboeken5.jpg](Images/Alle_Dagboeken5.jpg)
 
 ## Transcoding ideas
 
@@ -49,7 +49,7 @@ A website where each day you can share your thoughts and feelings. On the websit
 
 - Anne Frank diary
 
-![Coding/763.jpeg](Coding/763.jpeg)
+![Coding/763.jpeg](Images/763.jpeg)
 
 - [Twitter](https://twitter.com/explore)
 - [Jaap Smit A Tweet History](https://jaapsmit.nl/A-Tweet-History)
@@ -58,11 +58,11 @@ A website where each day you can share your thoughts and feelings. On the websit
 
 ### First sketch for website
 
-![Coding/Diary_Website_-01.jpg](Coding/Diary_Website_-01.jpg)
+![Images/Diary_Website_-01.jpg](Coding/Diary_Website_-01.jpg)
 
-![Coding/Diary_Website_-02.jpg](Coding/Diary_Website_-02.jpg)
+![Images/Diary_Website_-02.jpg](Coding/Diary_Website_-02.jpg)
 
-![Coding/Diary_Website_-03.jpg](Coding/Diary_Website_-03.jpg)
+![Images/Diary_Website_-03.jpg](Coding/Diary_Website_-03.jpg)
 
 ---
 
@@ -77,6 +77,6 @@ Zines made with queer icons (a website where you could also print these zines). 
 - [J.D.s](https://www.dazeddigital.com/music/gallery/22438/1/j-d-s) (queer punk zine from the 80's)
 - [Queercore](https://en.wikipedia.org/wiki/Queercore)
 
-    ![Coding/1181809.jpg](Coding/1181809.jpg)
+    ![Images/1181809.jpg](Coding/1181809.jpg)
 
-    ![Coding/GoGo-RiotGrrl-poster-003.jpg](Coding/GoGo-RiotGrrl-poster-003.jpg)
+    ![Images/GoGo-RiotGrrl-poster-003.jpg](Coding/GoGo-RiotGrrl-poster-003.jpg)
