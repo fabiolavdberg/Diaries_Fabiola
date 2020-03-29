@@ -10,7 +10,7 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 
 - The diaries
 
-    ![Coding/Alle_Dagboeken.jpg](Coding/Alle_Dagboeken.jpg)
+    ![Coding/Alle_Dagboeken.jpg] [Coding/Alle_Dagboeken.jpg]
 
     ![Coding/Alle_Dagboeken2.jpg](Coding/Alle_Dagboeken2.jpg)
 
