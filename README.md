@@ -44,7 +44,6 @@ While diaries were usually meant to record the private thoughts of the diarist, 
 - Little sculptures for each diary
     - A sculpture of all the diaries combined
        -  [Alexis Bondoux](https://www.instagram.com/alexis.bondoux/?hl=en)
-       ![Images/Schermafbeelding_2020-03-15_om_23.12.01.png](Images/Schermafbeelding_2020-03-15_om_23.12.01.png)
 - Drawings
 - Paintings
 - Digital version of the diary
@@ -96,6 +95,9 @@ Zines made with queer icons (a website where you could also print these zines). 
 - [Twitter](https://twitter.com/explore)
 - [Jaap Smit A Tweet History](https://jaapsmit.nl/A-Tweet-History)
 - De klaagmuur
+-  [Alexis Bondoux](https://www.instagram.com/alexis.bondoux/?hl=en)
+
+![Images/Schermafbeelding_2020-03-15_om_23.12.01.png](Images/Schermafbeelding_2020-03-15_om_23.12.01.png)
 
 ### [Diaries](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku)
 
