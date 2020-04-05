@@ -13,16 +13,16 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 2. [The diary research](https://github.com/fabiolavdberg/Diaries_Fabiola#The-diary)   
 3. [Transcoding ideas](https://github.com/fabiolavdberg/Diaries_Fabiola#IMD-Transcoding-ideas)
 4. [Fabiola diaries](https://github.com/fabiolavdberg/Diaries_Fabiola#Diaries)
-5. [Transcoding 1]
-    - [Hightlights](https://github.com/fabiolavdberg/Diaries_Fabiola#Highlights)
+5. [Hightlights](https://github.com/fabiolavdberg/Diaries_Fabiola#Highlights)
         - [Poetry made with highlighted text](https://github.com/fabiolavdberg/Diaries_Fabiola#Poetry-mad-with-highlighted-text)
         - [Poetry website](https://github.com/fabiolavdberg/Diaries_Fabiola#Poetry-website)
     - [Handwriting](https://github.com/fabiolavdberg/Diaries_Fabiola#Handwriting)
     - [Graphic elements](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
     - [Corrections](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
-6. [Transcoding 2](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-2)
+6. [Paintings](https://github.com/fabiolavdberg/Diaries_Fabiola#Paintings)
+    [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
+        [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
 
-- [From diary to drawing, from drawing to painting, from painting to ...?]
 - The diaries
 
     ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
@@ -250,7 +250,7 @@ A lot of the words and sentences Fabiola wrote already sound quit poetic. With t
 [Dagboek 15](https://drive.google.com/open?id=16d9Qv3geLWgbQZyXG00cdP5w6lAMZRfp) 
 
 ---
-### Transcoding 2
+### Paintings
 ## From diary to drawing, from drawing to painting, from painting to ...?
 - other drawings
 
@@ -307,8 +307,6 @@ A website where each day you can share your thoughts and feelings. I will be ano
 ![Images/Diary_Website_-02.jpg](Images/Diary_Website_-02.jpg)
 
 ![Images/Diary_Website_-03.jpg](Images/Diary_Website_-03.jpg)
-
-[Dagboek 6](https://drive.google.com/open?id=1vu7Ia-_N5qjbh8D8Xzgv09XNoffySXT_)
 
 [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
 ---
