@@ -12,11 +12,16 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 1. [Artifact](https://github.com/fabiolavdberg/Diaries_Fabiola)
 2. [The diary research](https://github.com/fabiolavdberg/Diaries_Fabiola#The-diary)   
 3. [Transcoding ideas](https://github.com/fabiolavdberg/Diaries_Fabiola#IMD-Transcoding-ideas)
-4. [Fabiola diaries]((https://github.com/fabiolavdberg/Diaries_Fabiola#Diaries)
+4. [Fabiola diaries](https://github.com/fabiolavdberg/Diaries_Fabiola#Diaries)
+5. [Transcoding 1]
     - [Hightlights](https://github.com/fabiolavdberg/Diaries_Fabiola#Highlights)
+        - [Poetry made with highlighted text](https://github.com/fabiolavdberg/Diaries_Fabiola#Poetry-mad-with-highlighted-text)
         - [Poetry website](https://github.com/fabiolavdberg/Diaries_Fabiola#Poetry-website)
     - [Handwriting](https://github.com/fabiolavdberg/Diaries_Fabiola#Handwriting)
-    - [Handwriting](https://github.com/fabiolavdberg/Diaries_Fabiola#Handwriting)
+    - [Graphic elements](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
+    - [Corrections](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
+6. [Transcoding 2]
+- [From diary to drawing, from drawing to painting, from painting to ...?](https://github.com/fabiolavdberg/Diaries_Fabiola#From-diary-to drawing,-from-drawing-to-painting,-from-painting-to ...?)
 
 - The diaries
 
@@ -92,7 +97,6 @@ Zines made with queer icons (a website where you could also print these zines). 
 - [Jaap Smit A Tweet History](https://jaapsmit.nl/A-Tweet-History)
 - De klaagmuur
 
-### Diaries
 ### [Diaries](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku)
 
 [Dagboek 4](https://drive.google.com/open?id=1jL2Ia04yqGbvGp4LPPtJWrnr1xAIlL9K)
