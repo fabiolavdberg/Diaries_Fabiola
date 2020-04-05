@@ -45,11 +45,10 @@ While diaries were usually meant to record the private thoughts of the diarist, 
 
 - Little sculptures for each diary
     - A sculpture of all the diaries combined
-            - Alexis Bondoux
+        - Alexis Bondoux
+       ![Images/Schermafbeelding_2020-03-15_om_23.12.01.png](Images/Schermafbeelding_2020-03-15_om_23.12.01.png)
 
-        ![Images/Schermafbeelding_2020-03-15_om_23.12.01.png](IMD%20CODING/Schermafbeelding_2020-03-15_om_23.12.01.png)
-
-        [Login * Instagram](https://www.instagram.com/alexis.bondoux/?hl=en)
+       -  [Alexis Bondoux](https://www.instagram.com/alexis.bondoux/?hl=en)
 - Drawings
 - Paintings
 - Digital version of the diary
