@@ -20,9 +20,9 @@ A Collection of 17 diaries I found by looking for collections without looking fo
     - [Handwriting](https://github.com/fabiolavdberg/Diaries_Fabiola#Handwriting)
     - [Graphic elements](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
     - [Corrections](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
-6. [Transcoding 2]
-- [From diary to drawing, from drawing to painting, from painting to ...?](https://github.com/fabiolavdberg/Diaries_Fabiola#From-diary-to drawing,-from-drawing-to-painting,-from-painting-to ...?)
+6. [Transcoding 2](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-2)
 
+- [From diary to drawing, from drawing to painting, from painting to ...?]
 - The diaries
 
     ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
@@ -250,7 +250,7 @@ A lot of the words and sentences Fabiola wrote already sound quit poetic. With t
 [Dagboek 15](https://drive.google.com/open?id=16d9Qv3geLWgbQZyXG00cdP5w6lAMZRfp) 
 
 ---
-
+### Transcoding 2
 ## From diary to drawing, from drawing to painting, from painting to ...?
 - other drawings
 
