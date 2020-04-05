@@ -293,6 +293,7 @@ A website where each day you can share your thoughts and feelings. I will be ano
 
 ![Images/Diary_Website_-03.jpg](Images/Diary_Website_-03.jpg)
 
-[website] (https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
+[Dagboek 6](https://drive.google.com/open?id=1vu7Ia-_N5qjbh8D8Xzgv09XNoffySXT_)
 
+[Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
 ---
