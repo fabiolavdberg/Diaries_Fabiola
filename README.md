@@ -278,17 +278,6 @@ A lot of the words and sentences Fabiola wrote already sound quit poetic. With t
 
 ![Images/Schermafbeelding_2020-04-05_om_16.33.50.png](Images/Schermafbeelding_2020-04-05_om_16.33.50.png)
 
-![Images/Drawing_01.png](Images/Drawing_01.png)
-
-![Images/Drawing_06.png](Images/Drawing_06.png)
-
-![Images/Drawing_09.png](Images/Drawing_09.png)
-
-![Images/IMG_8533.jpg](Images/IMG_8533.jpg)
-
-![Images/IMG_8534.jpg](Images/IMG_8534.jpg)
-
-![Images/IMG_8532.jpg](Images/IMG_8532.jpg)
 
 ---
 
