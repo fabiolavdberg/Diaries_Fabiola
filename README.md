@@ -8,6 +8,14 @@ Collection Fabiola
 
 A Collection of 17 diaries I found by looking for collections without looking for anything specific. The diaries include a report on Fabiola's life and responses to social issues such as the squatters' movement and discrimination.
 
+## Table of Contents
+1. [Artifact](https://github.com/fabiolavdberg/Diaries_Fabiola)
+2. [The diary research](https://github.com/fabiolavdberg/Diaries_Fabiola#The-diary)   
+3. [Transcoding ideas](https://github.com/fabiolavdberg/Diaries_Fabiola#IMD-Transcoding-ideas)
+4. [Fabiola diaries]((https://github.com/fabiolavdberg/Diaries_Fabiola#Dairies)
+    - [Hightlights](https://github.com/fabiolavdberg/Diaries_Fabiola#Highlights)
+    - [Handwriting](https://github.com/fabiolavdberg/Diaries_Fabiola#Handwriting)
+
 - The diaries
 
     ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
