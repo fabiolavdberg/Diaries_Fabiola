@@ -250,8 +250,8 @@ A lot of the words and sentences Fabiola wrote already sound quit poetic. With t
 [Dagboek 15](https://drive.google.com/open?id=16d9Qv3geLWgbQZyXG00cdP5w6lAMZRfp) 
 
 ---
-### Paintings
-## From diary to drawing, from drawing to painting, from painting to ...?
+## Paintings
+### From diary to drawing, from drawing to painting, from painting to ...?
 - other drawings
 
     [Drawing_01.pdf](Images/Drawing_01.pdf)
