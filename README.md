@@ -23,7 +23,7 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 7. [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
      - [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
 
-- The diaries
+## The diaries
 
     ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
 
@@ -45,10 +45,8 @@ While diaries were usually meant to record the private thoughts of the diarist, 
 
 - Little sculptures for each diary
     - A sculpture of all the diaries combined
-        - Alexis Bondoux
-       ![Images/Schermafbeelding_2020-03-15_om_23.12.01.png](Images/Schermafbeelding_2020-03-15_om_23.12.01.png)
-
        -  [Alexis Bondoux](https://www.instagram.com/alexis.bondoux/?hl=en)
+       ![Images/Schermafbeelding_2020-03-15_om_23.12.01.png](Images/Schermafbeelding_2020-03-15_om_23.12.01.png)
 - Drawings
 - Paintings
 - Digital version of the diary
