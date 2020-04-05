@@ -1,4 +1,4 @@
-# IMD + CODING
+# Collection of 17 Diaries by Fabiola
 
 ## The artifact
 
