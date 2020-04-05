@@ -14,14 +14,14 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 3. [Transcoding ideas](https://github.com/fabiolavdberg/Diaries_Fabiola#IMD-Transcoding-ideas)
 4. [Fabiola diaries](https://github.com/fabiolavdberg/Diaries_Fabiola#Diaries)
 5. [Hightlights](https://github.com/fabiolavdberg/Diaries_Fabiola#Highlights)
-        - [Poetry made with highlighted text](https://github.com/fabiolavdberg/Diaries_Fabiola#Poetry-mad-with-highlighted-text)
+    - [Poetry made with highlighted text](https://github.com/fabiolavdberg/Diaries_Fabiola#Poetry-mad-with-highlighted-text)
         - [Poetry website](https://github.com/fabiolavdberg/Diaries_Fabiola#Poetry-website)
     - [Handwriting](https://github.com/fabiolavdberg/Diaries_Fabiola#Handwriting)
     - [Graphic elements](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
     - [Corrections](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
 6. [Paintings](https://github.com/fabiolavdberg/Diaries_Fabiola#Paintings)
-7.  [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
-        - [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
+7. [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
+     - [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
 
 - The diaries
 
