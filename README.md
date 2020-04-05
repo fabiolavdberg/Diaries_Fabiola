@@ -20,8 +20,8 @@ A Collection of 17 diaries I found by looking for collections without looking fo
     - [Graphic elements](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
     - [Corrections](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
 6. [Paintings](https://github.com/fabiolavdberg/Diaries_Fabiola#Paintings)
-    [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
-        [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
+7.  [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
+        - [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
 
 - The diaries
 
