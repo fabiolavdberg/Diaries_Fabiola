@@ -23,8 +23,6 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 7. [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
      - [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
 
-## The diaries
-
     ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
 
     ![Images/Alle_Dagboeken2.jpg](Images/Alle_Dagboeken2.jpg)
