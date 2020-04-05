@@ -12,7 +12,7 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 1. [Artifact](https://github.com/fabiolavdberg/Diaries_Fabiola)
 2. [The diary research](https://github.com/fabiolavdberg/Diaries_Fabiola#The-diary)   
 3. [Transcoding ideas](https://github.com/fabiolavdberg/Diaries_Fabiola#IMD-Transcoding-ideas)
-4. [Fabiola diaries]((https://github.com/fabiolavdberg/Diaries_Fabiola#Dairies)
+4. [Fabiola diaries]((https://github.com/fabiolavdberg/Diaries_Fabiola#[Diaries])
     - [Hightlights](https://github.com/fabiolavdberg/Diaries_Fabiola#Highlights)
     - [Handwriting](https://github.com/fabiolavdberg/Diaries_Fabiola#Handwriting)
 
