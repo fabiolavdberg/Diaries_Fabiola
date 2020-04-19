@@ -26,8 +26,8 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 7. [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
      - [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
 
-<details>
 
+<details>
 <summary>The diaries</summary>
 
     ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
@@ -40,7 +40,7 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 
     ![Images/Alle_Dagboeken5.jpg](Images/Alle_Dagboeken5.jpg)
     
-    </details>
+ </details>   
 
 - [Diaries](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku)
 
