@@ -2,7 +2,7 @@
 
 ## The artifact
 
-## Collection Fabiola
+## Collection Fabiola :book:
 
 [Collection Summary: Collectie Fabiola](https://search.iisg.amsterdam/Record/COLL00016)
 
@@ -155,7 +155,8 @@ While diaries were usually meant to record the private thoughts of the diarist, 
 
 <details>
 <summary>The Highlights </summary>
- [**Highlights**](https://drive.google.com/open?id=1EBAGRwMco0mOifoBnxlS4zuGgRCXDlpt)
+   
+   [All Highlights](https://drive.google.com/open?id=1EBAGRwMco0mOifoBnxlS4zuGgRCXDlpt)
 
    [Dagboek 4](https://drive.google.com/open?id=1D7UlmAbFds6TN8uCEfH95s4eQzOAVvYs)
 
@@ -271,7 +272,7 @@ While diaries were usually meant to record the private thoughts of the diarist, 
    ![Images/Schermafbeelding_2020-04-05_om_16.24.39.png](Images/Schermafbeelding_2020-04-05_om_16.24.39.png)
    </details> 
 
-### Poetry website
+### Poetry website :dart:
 
 A lot of the words and sentences Fabiola wrote already sound quit poetic. With this website you will be able to make your own poems. It will be a drag and drop website so you can place the words in the order you want to
 
@@ -289,7 +290,7 @@ A lot of the words and sentences Fabiola wrote already sound quit poetic. With t
 ---
 
 ### Transcoding 02 
-### From diary to painting (analog)
+### From diary to painting (analog):art:
 <details>
 <summary> other drawings </summary>
 
@@ -325,7 +326,7 @@ A lot of the words and sentences Fabiola wrote already sound quit poetic. With t
 ---
 
 ### Transcoding 03 
-### Diary for the future (website)
+### Diary for the future (website):floppy_disk:
 
 In the future people are going to look back at 2020 and try to imagine how it looked like. So having peoples private thoughts and opinions is crucial. 
 
@@ -370,7 +371,7 @@ Zines made with queer icons (a website where you could also print these zines). 
 ---
 
 ### Transcoding 05
-### Flag (printed fabric)
+### Flag (printed fabric):checkered_flag:
 
 *Archiving the aesthetics* 
 
@@ -402,14 +403,14 @@ Dagboek 6
   </details>
   
 ### Transcoding 05
-### Index of flags (website)
+### Index of flags (website):computer:
 
 - An index of the flags
 
 ---
 
 ### Transcoding 06
-### Online protest (website)
+### Online protest (website):computer:
 
 Contemporary way of doing a protest, online movement 
 *Amsterdam during the 80's (gay rights movement)*
@@ -425,7 +426,7 @@ Contemporary way of doing a protest, online movement
 ---
 
 ### Transcoding 07
-### Newspaper/zine (printed)
+### Newspaper/zine (printed):newspaper:
 
 **References**
 
