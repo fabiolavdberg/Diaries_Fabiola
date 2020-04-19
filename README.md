@@ -1,12 +1,15 @@
-# Collection of 17 Diaries by Fabiola
+
 
 ## The artifact
 
-Collection Fabiola
+## Collection Fabiola
 
 [Collection Summary: Collectie Fabiola](https://search.iisg.amsterdam/Record/COLL00016)
 
-A Collection of 17 diaries I found by looking for collections without looking for anything specific. The diaries include a report on Fabiola's life and responses to social issues such as the squatters' movement and discrimination.
+### Research the artifact
+
+Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not chronological reports, but works of art. They offer a candid account of his daily changing moods, from happy, sad, to depressed. Fabiola frequently reminisced in the diaries about his childhood in Germany and later Belgium. Especially interesting are the comments that Fabiola delivers on political events. Sometimes he gives an account of a meeting in the squatters’ environment, and then a demonstration against fascism or for gay rights.
+
 
 ## Table of Contents
 1. [Artifact](https://github.com/fabiolavdberg/Diaries_Fabiola)
@@ -23,19 +26,9 @@ A Collection of 17 diaries I found by looking for collections without looking fo
 7. [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
      - [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
 
-   # IMD + CODING
+<details>
 
-## The artifact
-
-Collection Fabiola
-
-[Collection Summary: Collectie Fabiola](https://search.iisg.amsterdam/Record/COLL00016)
-
-### Research the artifact
-
-Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not chronological reports, but works of art. They offer a candid account of his daily changing moods, from happy, sad, to depressed. Fabiola frequently reminisced in the diaries about his childhood in Germany and later Belgium. Especially interesting are the comments that Fabiola delivers on political events. Sometimes he gives an account of a meeting in the squatters’ environment, and then a demonstration against fascism or for gay rights.
-
-- The diaries
+<summary>The diaries</summary>
 
     ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
 
@@ -46,6 +39,8 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
     ![Images/Alle_Dagboeken4.jpg](Images/Alle_Dagboeken4.jpg)
 
     ![Images/Alle_Dagboeken5.jpg](Images/Alle_Dagboeken5.jpg)
+    
+    </details>
 
 - [Diaries](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku)
 
