@@ -259,7 +259,7 @@ While diaries were usually meant to record the private thoughts of the diarist, 
 ---
 
 ### Transcoding 01
-### Poetry made with highlighted text (website)
+### Poetry made with highlighted text (website):pencil2:
 <details> 
 <summary> Sketch 01 </summary>
 
