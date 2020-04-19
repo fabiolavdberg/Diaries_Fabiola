@@ -84,7 +84,7 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 
    [Dagboek 27](https://drive.google.com/open?id=126potfBo8df2M4HJ7eTtf0eTFB3gzGhK)
  </details> 
----
+
 
 ### The diary
 
@@ -252,6 +252,7 @@ While diaries were usually meant to record the private thoughts of the diarist, 
    [Dagboek 15](https://drive.google.com/open?id=16d9Qv3geLWgbQZyXG00cdP5w6lAMZRfp) 
 
 </details> 
+
 ---
 
 ### Transcoding 01
@@ -282,6 +283,7 @@ A lot of the words and sentences Fabiola wrote already sound quit poetic. With t
 
    ![Images/Poetry_website_01-02.jpg](Images/Poetry_website_01-02.jpg)
 </details>
+
 ---
 
 ### Transcoding 02 
@@ -317,6 +319,7 @@ A lot of the words and sentences Fabiola wrote already sound quit poetic. With t
 
    ![Images/Schermafbeelding_2020-04-05_om_16.33.50.png](Images/Schermafbeelding_2020-04-05_om_16.33.50.png)
 </details>
+
 ---
 
 ### Transcoding 03 
@@ -427,4 +430,4 @@ Contemporary way of doing a protest, online movement
 - [War Primer — Broomberg & Chanarin](https://www.google.com/search?q=adam+broomberg+and+oliver+chanarin+war+primer&client=firefox-b-d&hl=en-US&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiuu67U1vToAhVMiqQKHVZwBDYQ_AUoAXoECAsQAw&biw=1280&bih=721#imgrc=bQ63Kl3MTs7IJM)
 - [Jonathan Puckey](https://www.jonathanpuckey.com/projects/zeitgeist/)
 
----
+
