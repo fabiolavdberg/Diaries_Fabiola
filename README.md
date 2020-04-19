@@ -40,9 +40,12 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 
     ![Images/Alle_Dagboeken5.jpg](Images/Alle_Dagboeken5.jpg)
     
- </details>   
+ </details> 
+ 
+ <details>
+ <summary> Google drive with diaries</summary>
 
-- [Diaries](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku)
+    [Diaries](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku)
 
     [Dagboek 4](https://drive.google.com/open?id=1jL2Ia04yqGbvGp4LPPtJWrnr1xAIlL9K)
 
@@ -77,7 +80,7 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
     [Dagboek 25](https://drive.google.com/open?id=1MLLm1TDXaG59q3rc7jYAydnmsx-14OnB)
 
     [Dagboek 27](https://drive.google.com/open?id=126potfBo8df2M4HJ7eTtf0eTFB3gzGhK)
-
+ </details> 
 ---
 
 ### The diary
