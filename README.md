@@ -11,13 +11,14 @@
 Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not chronological reports, but works of art. They offer a candid account of his daily changing moods, from happy, sad, to depressed. Fabiola frequently reminisced in the diaries about his childhood in Germany and later Belgium. Especially interesting are the comments that Fabiola delivers on political events. Sometimes he gives an account of a meeting in the squatters’ environment, and then a demonstration against fascism or for gay rights.
 
 
-## Table of Contents
+### Table of Contents
 1. [Artifact](https://github.com/fabiolavdberg/Diaries_Fabiola)
-2. [The diary research](https://github.com/fabiolavdberg/Diaries_Fabiola#The-diary)   
-3. [Transcoding ideas](https://github.com/fabiolavdberg/Diaries_Fabiola#IMD-Transcoding-ideas)
-4. [Fabiola diaries](https://github.com/fabiolavdberg/Diaries_Fabiola#Diaries)
+2. [The diary research](https://github.com/fabiolavdberg/Diaries_Fabiola#The-diary)  
+3. [Identity](https://github.com/fabiolavdberg/Diaries_Fabiola#Identity)  
+4. [Transcoding ideas](https://github.com/fabiolavdberg/Diaries_Fabiola#IMD-Transcoding-ideas)
+5. [References](https://github.com/fabiolavdberg/Diaries_Fabiola#References)
 
-## Transcodings
+### Transcodings
 1. [Elements from the diaries](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-00)
 2. [Poetry made with highlighted text](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-01)
 3. [From diary to painting](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-02)
@@ -27,8 +28,10 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 7. [Online protest](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-06)
 8. [Newspaper/zine](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-07)
 
+## The diaries
+
 <details>
-<summary>The diaries</summary>
+<summary>Images</summary>
 
    ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
 
