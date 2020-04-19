@@ -147,6 +147,8 @@ While diaries were usually meant to record the private thoughts of the diarist, 
     - [pansy beat](https://i-d.vice.com/en_us/article/3k5djj/pansy-beat-zine-captured-the-80s-east-village-queer-scene) (queer zine from the 80's)
     - [J.D.s](https://www.dazeddigital.com/music/gallery/22438/1/j-d-s) (queer punk zine from the 80's)
     - [Queercore](https://en.wikipedia.org/wiki/Queercore)
+    
+---
 
 ### Transcoding 00
 ### Elements from the diaries
