@@ -16,15 +16,16 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 2. [The diary research](https://github.com/fabiolavdberg/Diaries_Fabiola#The-diary)   
 3. [Transcoding ideas](https://github.com/fabiolavdberg/Diaries_Fabiola#IMD-Transcoding-ideas)
 4. [Fabiola diaries](https://github.com/fabiolavdberg/Diaries_Fabiola#Diaries)
-5. Transcodings
-    00. [Transcoding 00](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-00)
-    01 [Transcoding 01](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-01)
-    02 [Transcoding 02](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-02)
-    03 [Transcoding 03](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-03)
-    04 [Transcoding 04](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-04)
-    05 [Transcoding 05](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-05)
-    06 [Transcoding 06](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-06)
-    07 [Transcoding 07](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-07)
+
+## Transcodings
+1. [Elements from the diaries](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-00)
+2. [Poetry made with highlighted text](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-01)
+3. [From diary to painting](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-02)
+4. [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-03)
+5. [Queer zine](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-04)
+6. [Flag](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-05)
+7. [Online protest](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-06)
+8. [Newspaper/zine](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-07)
 
 <details>
 <summary>The diaries</summary>
