@@ -30,15 +30,15 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 <details>
 <summary>The diaries</summary>
 
-    ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
+   ![Images/Alle_Dagboeken.jpg](Images/Alle_Dagboeken.jpg)
 
-    ![Images/Alle_Dagboeken2.jpg](Images/Alle_Dagboeken2.jpg)
+   ![Images/Alle_Dagboeken2.jpg](Images/Alle_Dagboeken2.jpg)
 
-    ![Images/Alle_Dagboeken3.jpg](Images/Alle_Dagboeken3.jpg)
+   ![Images/Alle_Dagboeken3.jpg](Images/Alle_Dagboeken3.jpg)
 
-    ![Images/Alle_Dagboeken4.jpg](Images/Alle_Dagboeken4.jpg)
+   ![Images/Alle_Dagboeken4.jpg](Images/Alle_Dagboeken4.jpg)
 
-    ![Images/Alle_Dagboeken5.jpg](Images/Alle_Dagboeken5.jpg)
+   ![Images/Alle_Dagboeken5.jpg](Images/Alle_Dagboeken5.jpg)
     
  </details> 
  
