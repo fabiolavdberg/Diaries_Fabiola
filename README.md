@@ -16,16 +16,15 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 2. [The diary research](https://github.com/fabiolavdberg/Diaries_Fabiola#The-diary)   
 3. [Transcoding ideas](https://github.com/fabiolavdberg/Diaries_Fabiola#IMD-Transcoding-ideas)
 4. [Fabiola diaries](https://github.com/fabiolavdberg/Diaries_Fabiola#Diaries)
-5. [Hightlights](https://github.com/fabiolavdberg/Diaries_Fabiola#Highlights)
-    - [Poetry made with highlighted text](https://github.com/fabiolavdberg/Diaries_Fabiola#Poetry-mad-with-highlighted-text)
-        - [Poetry website](https://github.com/fabiolavdberg/Diaries_Fabiola#Poetry-website)
-    - [Handwriting](https://github.com/fabiolavdberg/Diaries_Fabiola#Handwriting)
-    - [Graphic elements](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
-    - [Corrections](https://github.com/fabiolavdberg/Diaries_Fabiola#Graphic-elements)
-6. [Paintings](https://github.com/fabiolavdberg/Diaries_Fabiola#Paintings)
-7. [Diary for the future](https://github.com/fabiolavdberg/Diaries_Fabiola#Diary-for-the-future)
-     - [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/web/index.html)
-
+5. Transcodings
+    00. [Transcoding 00](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-00)
+    01 [Transcoding 01](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-01)
+    02 [Transcoding 02](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-02)
+    03 [Transcoding 03](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-03)
+    04 [Transcoding 04](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-04)
+    05 [Transcoding 05](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-05)
+    06 [Transcoding 06](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-06)
+    07 [Transcoding 07](https://github.com/fabiolavdberg/Diaries_Fabiola#Transcoding-07)
 
 <details>
 <summary>The diaries</summary>
@@ -101,7 +100,7 @@ While diaries were usually meant to record the private thoughts of the diarist, 
 
 "A person's identity is defined as the totality of one's self-construal, in which how one construes oneself in the present expresses the continuity between how one construes oneself as one was in the past and how one construes oneself as one aspires to be in the future"; this allows for definitions of aspects of identity, such as: "One's ethnic identity is defined as that part of the totality of one's self-construal made up of those dimensions that express the continuity between one's construal of past ancestry and one's future aspirations in relation to ethnicity"
 
-- John Rex, David Mason, David S. Mason
+ John Rex, David Mason, David S. Mason
 
 ---
 
@@ -366,7 +365,7 @@ Zines made with queer icons (a website where you could also print these zines). 
 
 *Archiving the aesthetics* 
 
-Flags that represent each diary, the aesthetics of the diaries 
+Flags that represent each diary 
 
 **References** 
 
@@ -378,7 +377,7 @@ Flags that represent each diary, the aesthetics of the diaries
 - [Flags of micronations](https://en.wikipedia.org/wiki/Flags_of_micronations)
   
  <details>
-<summary> **Sketch 01** </summary>
+<summary> Sketch 01 </summary>
 
 ![Images/Flag_Dagboek_04-01.jpg](Images/Flag_Dagboek_04-01.jpg)
 
