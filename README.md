@@ -259,7 +259,7 @@ From analog made diaries to a website with analog elements. First I had to make 
 
 ### **Outcome Links**
 
-[Website](https://fabiolavdberg.github.io/Diaries_Fabiola/Coding tool/Diary_04.html)
+[Website](https://fabiolavdberg.github.io/Diaries_Fabiola/Coding_tool/Diary_04.html)
 
 # **Conclusion**
 
