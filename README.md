@@ -30,7 +30,7 @@ A Collection of 17 diaries made/written by Fabiola. The diaries include a report
 | **Medium** | Diaries
 | **Materials** | Various types of material
 | **Date** | 1985-1987
-|[Images/diaries.jpg](Images/diaries.jpg) | Here you can see the diaries made by Fabiola. They are all handmade with various types of material.
+|![Images/diaries.jpg](Images/diaries.jpg) | Here you can see the diaries made by Fabiola. They are all handmade with various types of material.
 
 # Collection of 17 diaries
 
@@ -96,7 +96,7 @@ The first transcoding was about taking out elements from the original diaries. T
 
 First I took pictures of all the diaries and the started to cut out all the highlighted parts from the diary. For me this was Fabiola's way of telling the reader what was important to him. By taking out only the highlighted part of the text it changes the whole narrative. 
 
-![Images/crop_text_01.gif](Images/crop_text_01.gif)
+![Images/crop_text_01.gif](Images/crop_text_01.gif width="50%)
 
 ![Images/crop_text_02.gif](Images/crop_text_02.gif)
 
