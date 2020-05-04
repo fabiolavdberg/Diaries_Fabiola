@@ -257,19 +257,19 @@ in progress
 
 From analog made diaries to a website with analog elements. First I had to make the analog elements and then implement them in to a digital website. If you go back to transcoding test there you can see how the analog diaries went from a picture to a drawing. Then from a drawing to a painting. It's the same concept, from analog diaries to a digital website. 
 
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.38.29)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.38.41)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.38.53)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.39.05)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.39.19)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.39.28)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.39.38)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.39.49)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.39.56)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.40.05)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.40.14)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.40.24)
-![Images/Red_Circles_06.jpg](Images/Schermafbeelding 2020-05-04 om 09.40.34)
+![Images/1.jpg](Images/1.jpg)
+![Images/2.jpg](Images/2.jpg)
+![Images/3.jpg](Images/3.jpg)
+![Images/4.jpg](Images/4.jpg)
+![Images/5.jpg](Images/5.jpg)
+![Images/6.jpg](Images/6.jpg)
+![Images/7.jpg](Images/7.jpg)
+![Images/8.jpg](Images/8.jpg)
+![Images/9.jpg](Images/9.jpg)
+![Images/10.jpg](Images/10.jpg)
+![Images/11.jpg](Images/11.jpg)
+![Images/12.jpg](Images/12.jpg)
+![Images/13.jpg](Images/13.jpg)
 
 
 ### **Outcome Links**
