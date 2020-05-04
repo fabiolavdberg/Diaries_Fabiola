@@ -251,7 +251,7 @@ CSS
 
 # **Reflection**
 
-Still in the making... :)
+in progress
 
 # **Outcomes**
 
@@ -263,7 +263,7 @@ From analog made diaries to a website with analog elements. First I had to make 
 
 # **Conclusion**
 
-Still in the making... :)
+in progress
 
 ## **Bibliography**
 
