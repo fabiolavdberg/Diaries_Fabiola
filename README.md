@@ -29,7 +29,7 @@ A Collection of 17 diaries made/written by Fabiola. The diaries include a report
 | **Medium** | Diaries
 | **Materials** | Various types of material
 | **Date** | 1985-1987
-|![Images/Diaries_gif.gif](Images/diaries.jpg) | Here you can see the diaries made by Fabiola. They are all handmade with various types of material.
+|![Images/Diaries_gif.gif](Images/Diaries_gif.gif) | Here you can see the diaries made by Fabiola. They are all handmade with various types of material.
 
 # Collection of 17 diaries
 
