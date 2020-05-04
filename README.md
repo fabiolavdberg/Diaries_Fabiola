@@ -35,56 +35,38 @@ A Collection of 17 diaries made/written by Fabiola. The diaries include a report
 
 Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not chronological reports, but works of art. They offer a candid account of his daily changing moods, from happy, sad, to depressed. Fabiola frequently reminisced in the diaries about his childhood in Germany and later Belgium. Especially interesting are the comments that Fabiola delivers on political events. Sometimes he gives an account of a meeting in the squatters’ environment, and then a demonstration against fascism or for gay rights. [[2]](https://search.iisg.amsterdam/Record/COLL00016) Here is a [link](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku) to pictures of the diaries.
 
-![Images/01.JPG](Images/01.JPG)
 [Dagboek 4](https://drive.google.com/open?id=1jL2Ia04yqGbvGp4LPPtJWrnr1xAIlL9K)
 
-![Images/1.JPG](Images/1.JPG)
 [Dagboek 6](https://drive.google.com/open?id=1VfEXZkEE5LiDxGG6hrjo8vP1f78obJ7O)
 
-![Images/001.JPG](Images/001.JPG)
 [Dagboek 7](https://drive.google.com/open?id=13Kfmw0j5gx7hyNvM_68fFLWTzBW5Hl0n)
 
-![Images/0001.JPG](Images/0001.JPG)
 [Dagboek 8](https://drive.google.com/open?id=15Mra7vcxcG5rI3Av3vNzdxOVC0_0j9SK)
 
-![Images/IMG_9783.JPG](Images/IMG_9783.JPG)
 [Dagboek 11](https://drive.google.com/open?id=1SA-EHMO7juG2xiUxubhIA_YpnYtUIYlr)
 
-![Images/00001.JPG](Images/00001.JPG)
 [Dagboek 12](https://drive.google.com/open?id=1RXlr4qXftxRyVUOK-kpwYu0_QHieJTaP)
 
-![Images/000001.JPG](Images/000001.JPG)
 [Dagboek 15](https://drive.google.com/open?id=1dJCjKYEG-ZN_C_vQFJZhMt282QZEq4mZ)
 
-![Images/0000001.JPG](Images/0000001.JPG)
 [Dagboek 16](https://drive.google.com/open?id=1WZiFZcn57UHUhTxR01gB_fxascJdvyE7)
 
-![Images/00000001.JPG](Images/00000001.JPG)
 [Dagboek 17](https://drive.google.com/open?id=1Topw_NSJZDL-ukW5X2jmyMkfPaZwoisz)
 
-![Images/000000001.JPG](Images/000000001.JPG)
 [Dagboek 18](https://drive.google.com/open?id=1xQ3K8iOl0qXnDdQY399dNjwx4x8FfDrC)
 
-![Images/00000000001.JPG](Images/00000000001.JPG)
 [Dagboek 19](https://drive.google.com/open?id=1RKJ0SQJsCfMMJUq2bR9W76388KvgOaX6)
 
-![Images/IMG_7110.jpg](Images/IMG_7110.jpg)
 [Dagboek 21](https://drive.google.com/open?id=1RN5euQ0hUyR3I-gY0h5MTVcG367m6VF5)
 
-![Images/00000000001.JPG](Images/00000000001.JPG)
 [Dagboek 22](https://drive.google.com/open?id=1wFLpPwkn5EUttv3og6VToPCvWMw2-VxF)
 
-![Images/000000000001.JPG](Images/000000000001.JPG)
 [Dagboek 23](https://drive.google.com/open?id=1jdsfsY8762tJP1Wqam8NJD-bXfe8axX-)
 
-![Images/IMG_9453.JPG](Images/IMG_9453.JPG)
 [Dagboek 24](https://drive.google.com/open?id=11B_ba2W2gQZ3mxFTRXHwxR9clnlXBLzZ)
 
-![Images/IMG_9648 2.JPG(Images/IMG_9648 2.JPG)
 [Dagboek 25](https://drive.google.com/open?id=1MLLm1TDXaG59q3rc7jYAydnmsx-14OnB)
 
-
-![Images/0000000000001.JPG(Images/0000000000001.JPG)
 [Dagboek 27](https://drive.google.com/open?id=126potfBo8df2M4HJ7eTtf0eTFB3gzGhK)
 
 ## Research: on Fabiola (Peter Alexander van Linden)
