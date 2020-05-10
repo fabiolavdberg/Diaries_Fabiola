@@ -1,4 +1,4 @@
-![Coverimage](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image.jpg)
+![Cover_Image.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image.jpg)
 # A digital reading experience
 
 ### **Table of Contents**
