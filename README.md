@@ -102,6 +102,9 @@ In 1987, the world's first gay memorial in public space, the Homomonument, was o
 
 The squatting movement continued to grow during the 1980s and the police clashed with protestors several times throughout the decade. In early 1980, a controversial conflict took place on Vondelstraat, when police employed tanks to clear out a squat. Later that year, squatters set up demonstrations that challenged Queen Beatrix’s coronation, with dissidents uniting around the slogan ‘Geen woning, geen kroning’ (No housing, no coronation). [[10]](https://theculturetrip.com/europe/the-netherlands/articles/a-brief-history-of-squatting-in-amsterdam/)
 
+![squatters.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/squatters.png)
+
+
 ---
 
 # **Transcoding**
