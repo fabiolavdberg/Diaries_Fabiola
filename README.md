@@ -276,6 +276,8 @@ CSS
 
 ### **Results**
 
+![Images/website_sketch.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_sketch.png)
+
 ### **Source Links**
 
 [CSS Basics: Styling Links Like a Boss](https://css-tricks.com/css-basics-styling-links-like-boss/)
