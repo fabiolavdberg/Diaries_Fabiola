@@ -1,4 +1,4 @@
-![Images/Cover_Image.jpg](Images/Cover_Image.jpg)
+![CoverImage](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image.jpg)
 # A digital reading experience
 
 ### **Table of Contents**
@@ -29,7 +29,7 @@ A Collection of 17 diaries made/written by Fabiola. The diaries include a report
 | **Medium** | Diaries
 | **Materials** | Various types of material
 | **Date** | 1985-1987
-| https://github.com/fabiolavdberg/Diaries_Fabiola/blob/Images/Diaries_gif.gif | Here you can see the diaries made by Fabiola. They are all handmade with various types of material.
+|![Diaries](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Diaries_gif.gif)| Here you can see the diaries made by Fabiola. They are all handmade with various types of material.
 
 # Collection of 17 diaries
 
