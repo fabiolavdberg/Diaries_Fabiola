@@ -79,6 +79,20 @@ Diaries, the from the Latin word dies for ‘day’, are records of daily life a
 
 While diaries were usually meant to record the private thoughts of the diarist, they now give us important insights into historical events and the everyday life of the culture in which the diarist lived. [[3]](https://theoldtimey.com/history-of-the-diary/)
 
+### Amsterdam in the 80's
+### LGBT history in the Netherlands
+
+In the early 1980s, Reguliersdwarsstraat [nl] succeeded Kerkstraat as the main Amsterdam gay street. In Reguliersdwarsstraat two of the first openly gay places opened: lunchroom Downtown, followed by the famous cafe April in 1981. Street parties were organized in which gay and straight people partied together and the gay scene became trendsetting for Dutch night life. Gay club iT in Amstelstraat became world-famous for its extravagant parties.
+
+Around 1983, the AIDS pandemic reached Amsterdam too, which prompted most Dutch gay men to change their sexual habits to practice safe sex, and eventually comprehensive sexual education was introduced into the public schools that resulted in a low rate of infection.
+
+The Homomonument in Amsterdam, consisting of three pink triangles
+In 1987, the world's first gay memorial in public space, the Homomonument, was opened in the centre of Amsterdam. It commemorates all gay men and lesbians who have been subjected to persecution because of their homosexuality. [[9]]
+
+### A Brief History of Squatting in Amsterdam
+
+The squatting movement continued to grow during the 1980s and the police clashed with protestors several times throughout the decade. In early 1980, a controversial conflict took place on Vondelstraat, when police employed tanks to clear out a squat. Later that year, squatters set up demonstrations that challenged Queen Beatrix’s coronation, with dissidents uniting around the slogan ‘Geen woning, geen kroning’ (No housing, no coronation). [[10]]
+
 ---
 
 # **Transcoding**
@@ -268,7 +282,7 @@ in progress
 
 ## **Bibliography**
 
-1. [*Fabiola, fabulous and flamboyant*](https://archief.socialhistory.org/en/collections/fabiola-fabulous-and-flamboyant)* ,Bouwe Hijma, Harriet Stroomberg, 18 August 2014
+1. [*'Fabiola, fabulous and flamboyant](https://archief.socialhistory.org/en/collections/fabiola-fabulous-and-flamboyant)* ,Bouwe Hijma, Harriet Stroomberg, 18 August 2014
 2. [*The History of the Diary*](https://theoldtimey.com/history-of-the-diary/), Colleen Welsch, July 5, 2017
 3. [Collectie Fabiola](https://search.iisg.amsterdam/Record/COLL00016), IISG 
 4. *[Fabiola (performancekunstenaar)](https://nl.wikipedia.org/wiki/Fabiola_(performancekunstenaar))* Wikipedia
@@ -276,11 +290,13 @@ in progress
 6. [*Beroemd omdat hij er altijd was](https://www.nrc.nl/nieuws/2013/01/28/beroemd-omdat-hij-er-altijd-was-1201676-a567895),* Bas Blokker, 28 januari 2013
 7. [*'Nee tegen racisme' thema van herdenking](https://www.trouw.nl/nieuws/nee-tegen-racisme-thema-van-herdenking~bb2dbd0b/),* 26 februari 1992
 8. *[Levend kunstwerk Fabiola](https://archief.amsterdam/beeldbank/detail/2caf88d6-bae4-f398-fd9c-a616b3068c4e),* archief amsterdam
-9. Anne Frank diaries 
-10. Concrete poetry
-11. [The Lost Diaries of War](https://www.nytimes.com/interactive/2020/04/15/arts/dutch-war-diaries.html)
-12. [Isa Genzken](https://www.google.com/search?q=isa+genzken&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4vvnryP7oAhXH5KQKHWt8D14Q_AUoAXoECBcQAw&biw=1280&bih=721)
-13. [Alexis Bondoux](https://www.instagram.com/alexis.bondoux/?hl=en)
+9. [*'LGBT history in the Netherlands] https://en.wikipedia.org/wiki/LGBT_history_in_the_Netherlands
+10. [*'A Brief History of Squatting in Amsterdam] https://theculturetrip.com/europe/the-netherlands/articles/a-brief-history-of-squatting-in-amsterdam/
+11. Anne Frank diaries 
+12. Concrete poetry
+13. [The Lost Diaries of War](https://www.nytimes.com/interactive/2020/04/15/arts/dutch-war-diaries.html)
+14. [Isa Genzken](https://www.google.com/search?q=isa+genzken&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4vvnryP7oAhXH5KQKHWt8D14Q_AUoAXoECBcQAw&biw=1280&bih=721)
+15. [Alexis Bondoux](https://www.instagram.com/alexis.bondoux/?hl=en)
 
 Website references:
 
