@@ -87,11 +87,11 @@ In the early 1980s, Reguliersdwarsstraat [nl] succeeded Kerkstraat as the main A
 Around 1983, the AIDS pandemic reached Amsterdam too, which prompted most Dutch gay men to change their sexual habits to practice safe sex, and eventually comprehensive sexual education was introduced into the public schools that resulted in a low rate of infection.
 
 The Homomonument in Amsterdam, consisting of three pink triangles
-In 1987, the world's first gay memorial in public space, the Homomonument, was opened in the centre of Amsterdam. It commemorates all gay men and lesbians who have been subjected to persecution because of their homosexuality.[[9](https://en.wikipedia.org/wiki/LGBT_history_in_the_Netherlands)]
+In 1987, the world's first gay memorial in public space, the Homomonument, was opened in the centre of Amsterdam. It commemorates all gay men and lesbians who have been subjected to persecution because of their homosexuality.[[9]](https://en.wikipedia.org/wiki/LGBT_history_in_the_Netherlands)
 
 ### A Brief History of Squatting in Amsterdam
 
-The squatting movement continued to grow during the 1980s and the police clashed with protestors several times throughout the decade. In early 1980, a controversial conflict took place on Vondelstraat, when police employed tanks to clear out a squat. Later that year, squatters set up demonstrations that challenged Queen Beatrix’s coronation, with dissidents uniting around the slogan ‘Geen woning, geen kroning’ (No housing, no coronation). [10](https://theculturetrip.com/europe/the-netherlands/articles/a-brief-history-of-squatting-in-amsterdam/)
+The squatting movement continued to grow during the 1980s and the police clashed with protestors several times throughout the decade. In early 1980, a controversial conflict took place on Vondelstraat, when police employed tanks to clear out a squat. Later that year, squatters set up demonstrations that challenged Queen Beatrix’s coronation, with dissidents uniting around the slogan ‘Geen woning, geen kroning’ (No housing, no coronation). [[10]](https://theculturetrip.com/europe/the-netherlands/articles/a-brief-history-of-squatting-in-amsterdam/)
 
 ---
 
