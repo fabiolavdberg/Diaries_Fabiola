@@ -79,7 +79,7 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 
 Fabiola was the stage name of Peter Alexander van Linden (Weilheim, Germany 1946-Amsterdam 2013). His father was Belgian, his mother German. Shortly after his birth he was handed over to a monastery for adoption. At the age of two he was adopted by a Bavarian aunt. Five years later, he was picked up by his biological mother and taken to Willebroek, a village near Antwerp. There he grew up in a strict Catholic environment where his homosexuality was not accepted. In the sixties he left for the Netherlands, where he studied nursing. Soon he settled in Amsterdam and became known as "living artwork" because of his extravagant and colorful outfit. Fabiola was frequently present in Amsterdam's nightlife and at demonstrations and demonstrations against discrimination and fascism, among other things. [[1]](https://archief.socialhistory.org/en/collections/fabiola-fabulous-and-flamboyant)
 
-![Fabiola.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Fabiola.jpg)
+![Fabiola.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Fabiola.png)
 Fabiola in his studio
 
 ### Research: What is a diary?
