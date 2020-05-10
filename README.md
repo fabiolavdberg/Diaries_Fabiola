@@ -15,11 +15,11 @@
 6. [Conclusion](https://github.com/fabiolavdberg/Diaries_Fabiola#Conclusion)
 7. [Bibliography](https://github.com/fabiolavdberg/Diaries_Fabiola#Bibliography)
 
-# **Artefact, Collection of 17 diaries**
+# **artefact, Collection of 17 diaries**
 
 A Collection of 17 diaries made/written by Fabiola. The diaries include a report on Fabiola's life and responses to social issues such as the squatters' movement and discrimination.
 
-## **Metadata**
+## **metadata**
 
 | Tag | Data |  
 |--|--|
@@ -31,7 +31,7 @@ A Collection of 17 diaries made/written by Fabiola. The diaries include a report
 | **Date** | 1985-1987
 |![Images/Diaries_gif.gif](Images/Diaries_gif.gif) | Here you can see the diaries made by Fabiola. They are all handmade with various types of material.
 
-# Collection of 17 diaries
+# collection of 17 diaries
 
 Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not chronological reports, but works of art. They offer a candid account of his daily changing moods, from happy, sad, to depressed. Fabiola frequently reminisced in the diaries about his childhood in Germany and later Belgium. Especially interesting are the comments that Fabiola delivers on political events. Sometimes he gives an account of a meeting in the squatters’ environment, and then a demonstration against fascism or for gay rights. [[2]](https://search.iisg.amsterdam/Record/COLL00016) Here is a [link](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku) to pictures of the diaries.
 
@@ -69,11 +69,11 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 
 [Dagboek 27](https://drive.google.com/open?id=126potfBo8df2M4HJ7eTtf0eTFB3gzGhK)
 
-## Research: on Fabiola (Peter Alexander van Linden)
+## research: on Fabiola (Peter Alexander van Linden)
 
 Fabiola was the stage name of Peter Alexander van Linden (Weilheim, Germany 1946-Amsterdam 2013). His father was Belgian, his mother German. Shortly after his birth he was handed over to a monastery for adoption. At the age of two he was adopted by a Bavarian aunt. Five years later, he was picked up by his biological mother and taken to Willebroek, a village near Antwerp. There he grew up in a strict Catholic environment where his homosexuality was not accepted. In the sixties he left for the Netherlands, where he studied nursing. Soon he settled in Amsterdam and became known as "living artwork" because of his extravagant and colorful outfit. Fabiola was frequently present in Amsterdam's nightlife and at demonstrations and demonstrations against discrimination and fascism, among other things. [[1]](https://archief.socialhistory.org/en/collections/fabiola-fabulous-and-flamboyant)
 
-### Research: What is a diary?
+### research: What is a diary?
 
 Diaries, the from the Latin word dies for ‘day’, are records of daily life and opinions organized by date. The art of diary-keeping became popular in the 18th century, and the peak reached its pinnacle during the **[Victorian era](https://en.wikipedia.org/wiki/Victorian_era)**.
 
@@ -81,17 +81,17 @@ While diaries were usually meant to record the private thoughts of the diarist, 
 
 ---
 
-# **Transcoding**
+# **transcoding**
 
 The role of transcoding in me project is to create a new experience of reading. In this way the reader can read a diary made analog in a digital matter. Also by not giving away everything that was inside these diaries, a diary is normally seen as something private so while transcoding I will lose parts of the diaries in this way some part will still be kept private. I will be taking out parts of the original diaries and creating new elements based on the existing diaries. This will al come together in a website that will represent these diaries. 
 
-## **Transcoding No. 1**
+## **transcoding No. 1**
 
-### **Description**
+### **description**
 
 The first transcoding was about taking out elements from the original diaries. The elements that I was taking out was all the highlighted text from the diaries. For me the highlighted text was the text that was the most important for Fabiola.
 
-### **Methods**
+### **methods**
 
 First I took pictures of all the diaries and the started to cut out all the highlighted parts from the diary. For me this was Fabiola's way of telling the reader what was important to him. By taking out only the highlighted part of the text it changes the whole narrative. 
 
@@ -99,11 +99,11 @@ First I took pictures of all the diaries and the started to cut out all the high
 
 ![Images/crop_text_02.gif](Images/crop_text_02.gif)
 
-### **Results**
+### **results**
 
 The result of this transcoding was a collection of highlighted text from each diary that had text in them. These highlights where later used in the coding tool.
 
-[**Highlights**](https://drive.google.com/open?id=1EBAGRwMco0mOifoBnxlS4zuGgRCXDlpt)
+[**highlights**](https://drive.google.com/open?id=1EBAGRwMco0mOifoBnxlS4zuGgRCXDlpt)
 
 [Dagboek 4](https://drive.google.com/open?id=1D7UlmAbFds6TN8uCEfH95s4eQzOAVvYs)
 
@@ -151,11 +151,11 @@ The result of this transcoding was a collection of highlighted text from each di
 
 ---
 
-## **Transcoding No. 2**
+## **transcoding No. 2**
 
 The second transcoding is about recreating the elements from the diaries. These elements where made to later use for the final outcome. I tried recreating the elements Fabiola used in his diaries. 
 
-### Transcoding test
+### transcoding test
 
 This "transcoding" became part of the final result. This was a experiment to see what happens when you turn a picture into a drawing, and then turn the drawing into a painting.  
 
@@ -167,7 +167,7 @@ This "transcoding" became part of the final result. This was a experiment to see
 
 ---
 
-### **Methods**
+### **methods**
 
 I used different colors of spray paint that looked like the colors used in the diaries. 
 
@@ -175,11 +175,11 @@ I used different colors of spray paint that looked like the colors used in the d
 
 ![Images/spray_02.gif](Images/spray_02.gif)
 
-### **Results**
+### **results**
 
 The result of this transcoding are a collection of elements made analog by me. These elements are based on the elements in the original diaries. These elements where later used in the coding tool. 
 
-[**Analog elements**](https://drive.google.com/open?id=1Llcwnnxelcta7ytXj_mF3b_DqIsip3-F)
+[**analog elements**](https://drive.google.com/open?id=1Llcwnnxelcta7ytXj_mF3b_DqIsip3-F)
 
 [Dagboek 4](https://drive.google.com/open?id=1mK-BUGpiB9-EHdT5mOeOoLL8B3ppt_b-)
 
@@ -227,32 +227,32 @@ The result of this transcoding are a collection of elements made analog by me. T
 
 ---
 
-## **Transcoding Tool**
+## **transcoding Tool**
 
-### **Description**
+### **description**
 
 The coding tool I made is a website. The website is allows a new way of experiencing the diaries made between 1985 and 1987. Now you can experience them digitally. 
 
-### **Aims**
+### **aims**
 
 The main goal behind the tool is to make a website that will guide you through these diaries, but in a more abstract way.
 
-### **Methods**
+### **methods**
 
 HTML
 CSS
 
-### **Results**
+### **results**
 
-### **Source Links**
+### **source Links**
 
 [CSS Basics: Styling Links Like a Boss](https://css-tricks.com/css-basics-styling-links-like-boss/)
 
-# **Reflection**
+# **reflection**
 
 in progress
 
-# **Outcomes**
+# **outcomes**
 
 From analog made diaries to a website with analog elements. First I had to make the analog elements and then implement them in to a digital website. If you go back to transcoding test there you can see how the analog diaries went from a picture to a drawing. Then from a drawing to a painting. It's the same concept, from analog diaries to a digital website. 
 
@@ -271,17 +271,17 @@ From analog made diaries to a website with analog elements. First I had to make 
 ![Images/13.jpg](Images/13.jpg)
 
 
-### **Outcome Links**
+### **outcome Links**
 
 [Website](https://fabiolavdberg.github.io/Diaries_Fabiola/Coding_tool/Diary_04.html)
 
-# **Conclusion**
+# **conclusion**
 
 in progress
 
-## **Bibliography**
+## **bibliography**
 
-1. [*Fabiola, fabulous and flamboyant](https://archief.socialhistory.org/en/collections/fabiola-fabulous-and-flamboyant)* ,Bouwe Hijma, Harriet Stroomberg, 18 August 2014
+1. [*Fabiola, fabulous and flamboyant*](https://archief.socialhistory.org/en/collections/fabiola-fabulous-and-flamboyant)* ,Bouwe Hijma, Harriet Stroomberg, 18 August 2014
 2. [*The History of the Diary*](https://theoldtimey.com/history-of-the-diary/), Colleen Welsch, July 5, 2017
 3. [Collectie Fabiola](https://search.iisg.amsterdam/Record/COLL00016), IISG 
 4. *[Fabiola (performancekunstenaar)](https://nl.wikipedia.org/wiki/Fabiola_(performancekunstenaar))* Wikipedia
