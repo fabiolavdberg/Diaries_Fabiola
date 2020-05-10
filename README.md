@@ -105,7 +105,6 @@ The squatting movement continued to grow during the 1980s and the police clashed
 ![squatters.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/squatters.png)
 
 
----
 
 # **Transcoding**
 
@@ -180,7 +179,6 @@ The result of this transcoding was a collection of highlighted text from each di
 
 </details>
 
----
 
 ## **Transcoding No. 2**
 
