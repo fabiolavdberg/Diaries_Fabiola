@@ -1,4 +1,4 @@
-![CoverImage](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image.jpg)
+![Coverimage](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image.jpg)
 # A digital reading experience
 
 ### **Table of Contents**
@@ -95,9 +95,9 @@ The first transcoding was about taking out elements from the original diaries. T
 
 First I took pictures of all the diaries and the started to cut out all the highlighted parts from the diary. For me this was Fabiola's way of telling the reader what was important to him. By taking out only the highlighted part of the text it changes the whole narrative. 
 
-![Images/crop_text_01.gif](Images/crop_text_01.gif)
+![Images/crop_text_01.gif](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/crop_text_01.gif)
 
-![Images/crop_text_02.gif](Images/crop_text_02.gif)
+![Images/crop_text_02.gif](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/crop_text_02.gif)
 
 ### **Results**
 
@@ -107,23 +107,23 @@ The result of this transcoding was a collection of highlighted text from each di
 
 [Dagboek 4](https://drive.google.com/open?id=1D7UlmAbFds6TN8uCEfH95s4eQzOAVvYs)
 
-![Images/Dagboek-06_04.jpg](Images/Dagboek-06_04.jpg)
+![Images/Dagboek-06_04.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-06_04.jpg)
 
 [Dagboek 6](https://drive.google.com/open?id=1em0Qao0aITw9y1VKatABhmieukTVqmGK)
 
-![Images/Dagboek-06_05.jpg](Images/Dagboek-06_05.jpg)
+![Images/Dagboek-06_05.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-06_05.jpg)
 
 [Dagboek 7](https://drive.google.com/open?id=17d8SmLpjetZW1nHFlV_uOsQfwUnTGjad)
 
-![Images/Dagboek-07_07.jpg](Images/Dagboek-07_07.jpg)
+![Images/Dagboek-07_07.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-07_07.jpg)
 
 [Dagboek 8](https://drive.google.com/open?id=19fMP9E62p6R4m-M8d5gxC_vc76O8gKl8)
 
-![Images/Dagboek-08_06.jpg](Images/Dagboek-08_06.jpg)
+![Images/Dagboek-08_06.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-08_06.jpg)
 
 [Dagboek 12](https://drive.google.com/open?id=1wK7iAy3MsycSxDZsNOesr3jCFm895M3L)
 
-![Images/Dagboek-12_012.jpg](Images/Dagboek-12_012.jpg)
+![Images/Dagboek-12_012.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-12_012.jpg)
 
 [Dagboek 15](https://drive.google.com/open?id=1O7QGETzamIo1UqGEYi4GOuxAfSBIwfNH)
 
@@ -131,23 +131,23 @@ The result of this transcoding was a collection of highlighted text from each di
 
 [Dagboek 16](https://drive.google.com/open?id=1TNV9gXL1nNE6Qhgt2tthBX5wrjVTOxY_)
 
-![Images/Dagboek-16_05.jpg](Images/Dagboek-16_05.jpg)
+![Images/Dagboek-16_05.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-16_05.jpg)
 
 [Dagboek 18](https://drive.google.com/open?id=18VYK4yhFnxK7BiSpfzJuIl7c74gUGxDN)
 
-![Images/Dagboek-018_012.jpg](Images/Dagboek-018_012.jpg)
+![Images/Dagboek-018_012.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-018_012.jpg)
 
 [Dagboek 22](https://drive.google.com/open?id=1H5gZ6XJ5AgDbxLz6lAWRFiSOZTs69Uer)
 
-![Images/Dagboek-22_024.jpg](Images/Dagboek-22_024.jpg)
+![Images/Dagboek-22_024.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-22_024.jpg)
 
 [Dagboek 23](https://drive.google.com/open?id=144cPu5D9XMHxfL9CB-WGNgB4_fgyPUQz)
 
-![Images/Dagboek-23_0100.jpg](Images/Dagboek-23_0100.jpg)
+![Images/Dagboek-23_0100.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-23_0100.jpg)
 
 [Dagboek 27](https://drive.google.com/open?id=1BRbdGOMN9EFjez-CFRdZ336yVBfoAWgp)
 
-![Images/Dagboek-27_059.jpg](Images/Dagboek-27_059.jpg)
+![Images/Dagboek-27_059.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-27_059.jpg)
 
 ---
 
@@ -159,11 +159,11 @@ The second transcoding is about recreating the elements from the diaries. These 
 
 This "transcoding" became part of the final result. This was a experiment to see what happens when you turn a picture into a drawing, and then turn the drawing into a painting.  
 
-![Images/Schermafbeelding_2020-04-05_om_16.33.25.png](Images/Schermafbeelding_2020-04-05_om_16.33.25.png)
+![Images/Schermafbeelding_2020-04-05_om_16.33.25.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.25.png)
 
-![Images/Schermafbeelding_2020-04-05_om_16.33.39.png](Images/Schermafbeelding_2020-04-05_om_16.33.39.png)
+![Images/Schermafbeelding_2020-04-05_om_16.33.39.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.39.png)
 
-![Images/Schermafbeelding_2020-04-05_om_16.33.50.png](Images/Schermafbeelding_2020-04-05_om_16.33.50.png)
+![Images/Schermafbeelding_2020-04-05_om_16.33.50.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.50.png)
 
 ---
 
@@ -171,9 +171,9 @@ This "transcoding" became part of the final result. This was a experiment to see
 
 I used different colors of spray paint that looked like the colors used in the diaries. 
 
-![Images/spray_01.gif](Images/spray_01.gif)
+![Images/spray_01.gif](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_01.gif)
 
-![Images/spray_02.gif](Images/spray_02.gif)
+![Images/spray_02.gif](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_02.gif)
 
 ### **Results**
 
@@ -183,47 +183,47 @@ The result of this transcoding are a collection of elements made analog by me. T
 
 [Dagboek 4](https://drive.google.com/open?id=1mK-BUGpiB9-EHdT5mOeOoLL8B3ppt_b-)
 
-![Images/Pink_Lines_04.jpg](Images/Pink_Lines_04.jpg)
+![Images/Pink_Lines_04.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Pink_Lines_04.jpg)
 
 [Dagboek 6](https://drive.google.com/open?id=1ABFbYJevMnt9d8YXfOENsvepQvMsT_0M)
 
-![Images/Black_Blue_Line_01.jpg](Images/Black_Blue_Line_01.jpg)
+![Images/Black_Blue_Line_01.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Blue_Line_01.jpg)
 
 [Dagboek 7](https://drive.google.com/open?id=1j2Tm6pmNd4VE041846OShSmmhGd7WlPf)
 
-![Images/Pink_Lines_03.jpg](Images/Pink_Lines_03.jpg)
+![Images/Pink_Lines_03.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Pink_Lines_03.jpg)
 
 [Dagboek 8](https://drive.google.com/open?id=1BZyN1AXRPMA2jl_2yiMINxGhNUBa5IPn)
 
-![Images/Pink_Lines_05.jpg](Images/Pink_Lines_05.jpg)
+![Images/Pink_Lines_05.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Pink_Lines_05.jpg)
 
 [Dagboek 12](https://drive.google.com/open?id=1SvcluMuOXR5NhYc2Srv1F4j-J12MRsas)
 
-![Images/Black_Pink_Lines_01.jpg](Images/Black_Pink_Lines_01.jpg)
+![Images/Black_Pink_Lines_01.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Pink_Lines_01.jpg)
 
 [Dagboek 15](https://drive.google.com/open?id=1WDL_tcRDfMQDjl8ebVaEjd-tI3owPUzT)
 
-![Images/Red_Line_01.jpg](Images/Red_Line_01.jpg)
+![Images/Red_Line_01.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Red_Line_01.jpg)
 
 [Dagboek 16](https://drive.google.com/open?id=1xnChVDA0gJKjwvhWVrisZR_OMIGMATVt)
 
-![Images/Black_Lines_02.jpg](Images/Black_Lines_02.jpg)
+![Images/Black_Lines_02.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Lines_02.jpg)
 
 [Dagboek 18](https://drive.google.com/open?id=1YaRtAZp96vhQAyQ2blratkBHUGEe1zqH)
 
-![Images/Yellow_Line_02.jpg](Images/Yellow_Line_02.jpg)
+![Images/Yellow_Line_02.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Yellow_Line_02.jpg)
 
 [Dagboek 22](https://drive.google.com/open?id=1bEkUiDskcWHYCbEHOLO0vlAKjDQK-dIy)
 
-![Images/Black_Lines_05.jpg](Images/Black_Lines_05.jpg)
+![Images/Black_Lines_05.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Lines_05.jpg)
 
 [Dagboek 23](https://drive.google.com/open?id=1wf__BXgR9Azryo7kB9omuJsatXMqZPug)
 
-![Images/Black_Lines_01.jpg](Images/Black_Lines_01.jpg)
+![Images/Black_Lines_01.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Lines_01.jpg)
 
 [Dagboek 27](https://drive.google.com/open?id=1Xv4MzRqQbwCtTIKr8lUW7Tg8B_a_pHDI)
 
-![Images/Red_Circles_06.jpg](Images/Red_Circles_06.jpg)
+![Images/Red_Circles_06.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Red_Circles_06.jpg)
 
 ---
 
@@ -256,19 +256,6 @@ in progress
 
 From analog made diaries to a website with analog elements. First I had to make the analog elements and then implement them in to a digital website. If you go back to transcoding test there you can see how the analog diaries went from a picture to a drawing. Then from a drawing to a painting. It's the same concept, from analog diaries to a digital website. 
 
-![Images/1.jpg](Images/1.jpg)
-![Images/2.jpg](Images/2.jpg)
-![Images/3.jpg](Images/3.jpg)
-![Images/4.jpg](Images/4.jpg)
-![Images/5.jpg](Images/5.jpg)
-![Images/6.jpg](Images/6.jpg)
-![Images/7.jpg](Images/7.jpg)
-![Images/8.jpg](Images/8.jpg)
-![Images/9.jpg](Images/9.jpg)
-![Images/10.jpg](Images/10.jpg)
-![Images/11.jpg](Images/11.jpg)
-![Images/12.jpg](Images/12.jpg)
-![Images/13.jpg](Images/13.jpg)
 
 
 ### **Outcome Links**
