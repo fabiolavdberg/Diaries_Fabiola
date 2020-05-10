@@ -37,6 +37,7 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 
 <details>
 <summary>All Diaries</summary>
+    
 [Dagboek 4](https://drive.google.com/open?id=1jL2Ia04yqGbvGp4LPPtJWrnr1xAIlL9K)
 
 [Dagboek 6](https://drive.google.com/open?id=1VfEXZkEE5LiDxGG6hrjo8vP1f78obJ7O)
@@ -122,7 +123,10 @@ First I took pictures of all the diaries and the started to cut out all the high
 
 The result of this transcoding was a collection of highlighted text from each diary that had text in them. These highlights where later used in the coding tool.
 
+
 [**Highlights**](https://drive.google.com/open?id=1EBAGRwMco0mOifoBnxlS4zuGgRCXDlpt)
+<details>
+<summary>Details</summary>
 
 [Dagboek 4](https://drive.google.com/open?id=1D7UlmAbFds6TN8uCEfH95s4eQzOAVvYs)
 
@@ -168,6 +172,8 @@ The result of this transcoding was a collection of highlighted text from each di
 
 ![Images/Dagboek-27_059.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-27_059.jpg)
 
+</details>
+
 ---
 
 ## **Transcoding No. 2**
@@ -199,6 +205,8 @@ I used different colors of spray paint that looked like the colors used in the d
 The result of this transcoding are a collection of elements made analog by me. These elements are based on the elements in the original diaries. These elements where later used in the coding tool. 
 
 [**Analog elements**](https://drive.google.com/open?id=1Llcwnnxelcta7ytXj_mF3b_DqIsip3-F)
+<details>
+<summary>Details</summary>
 
 [Dagboek 4](https://drive.google.com/open?id=1mK-BUGpiB9-EHdT5mOeOoLL8B3ppt_b-)
 
@@ -244,6 +252,7 @@ The result of this transcoding are a collection of elements made analog by me. T
 
 ![Images/Red_Circles_06.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Red_Circles_06.png)
 
+</details>
 ---
 
 ## **Transcoding Tool**
