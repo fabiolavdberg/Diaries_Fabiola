@@ -1,0 +1,127 @@
+html,
+body {
+    height: 500%;
+}
+
+* {
+    margin: 0;
+}
+
+/* hide the scrollbar in modern browsers */
+::-webkit-scrollbar {
+    width: 0px;  /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
+}
+/* optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+
+body {
+    background-color: white;
+}
+
+@font-face {
+  font-family: 'VIVALDII';
+  src: url('Fonts/VIVALDII.TTF') format('opentype');
+}
+
+.img_01 {
+    position: absolute;
+    width: 600px;
+    height: auto;
+    left: 100px;
+    background-color: white;
+
+    /* make sure it starts outside of the screen */
+    top: 1000px;
+    /* the green one is all in the back */
+    z-index: 0;
+}
+
+.square-red {
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 500px;
+    background-color: #ff0000;
+
+    /* make sure it starts outside of the screen */
+    top: 1000px;
+    /* the red one is in the middle */
+    z-index: 1;
+
+}
+
+.square-blue {
+    position: absolute;
+    width: 800px;
+    height: 100px;
+    left: 400px;
+    background-color: #0000ff;
+
+    /* make sure it starts outside of the screen */
+    top: 1000px;
+    /* the blue one is in the front */
+    z-index: 2;
+}
+
+.square-orange {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 20px;
+    background-color: orange;
+
+    /* make sure it starts outside of the screen */
+    top: 500px;
+    /* the blue one is in the front */
+    z-index: 4;
+}
+
+.title{
+  font-size: 100pt;
+  text-align: center;
+  font-family: times;
+}
+
+
+.Diary_04-01{
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+
+.Diary_06-01{
+  position: relative;
+  mix-blend-mode: multiply;
+}
+
+.Diary_07-01{
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+
+.Diary_08-01{
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+
+.Diary_012-01{
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+
+.Diary_015-01{
+  position: relative;
+  mix-blend-mode: multiply;
+}
+
+.Diary_016-01{
+  position: relative;
+  mix-blend-mode: multiply;
+}
+
+.Diary_018-01{
+  position: relative;
+  mix-blend-mode: multiply;
+}
