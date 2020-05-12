@@ -155,7 +155,7 @@ The result of this transcoding was a collection of highlighted text from each di
 
 [Dagboek 15](https://drive.google.com/open?id=1O7QGETzamIo1UqGEYi4GOuxAfSBIwfNH)
 
-![Images/Dagboek-15_019.jpg](Images/Dagboek-15_019.jpg)
+![Images/Dagboek-15_019.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-15_019.jpg)
 
 [Dagboek 16](https://drive.google.com/open?id=1TNV9gXL1nNE6Qhgt2tthBX5wrjVTOxY_)
 
