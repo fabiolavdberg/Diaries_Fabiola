@@ -242,7 +242,7 @@ The result of this transcoding are a collection of elements made analog by me. T
 
 [Dagboek 18](https://drive.google.com/open?id=1YaRtAZp96vhQAyQ2blratkBHUGEe1zqH)
 
-![Images/Yellow_Line_02.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Yellow_Line_02.png)
+![Images/Yellow_Line_01.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Yellow_Line_01.png)
 
 [Dagboek 22](https://drive.google.com/open?id=1bEkUiDskcWHYCbEHOLO0vlAKjDQK-dIy)
 
