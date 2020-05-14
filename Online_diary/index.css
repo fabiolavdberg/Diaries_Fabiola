@@ -1,6 +1,6 @@
 html,
 body {
-    height: 500%;
+    height: 700%;
 }
 
 * {
@@ -14,7 +14,7 @@ body {
 }
 /* optional: show position indicator in red */
 ::-webkit-scrollbar-thumb {
-    background: #FF0000;
+    background: white;
 }
 
 body {
@@ -22,106 +22,481 @@ body {
 }
 
 @font-face {
-  font-family: 'VIVALDII';
-  src: url('Fonts/VIVALDII.TTF') format('opentype');
+  font-family: 'Superstarregular';
+  src: url('Fonts/TRYBluuSuuperstar-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Superstaritalic';
+  src: url('Fonts/TRYBluuSuuperstar-Italic.otf') format('opentype');
+}
+
+.menu{
+  list-style-type: none;
+  style: none;
+  position: fixed;
+  margin-left: 20px;
+  font-family: Superstarregular;
+  text-align: left;
+  font-size: 1em;
+  line-height: 1.25em;
+  color: black;
+  color: transparent;
+  text-shadow: 0 0 5px #000000;
 }
 
 .img_01 {
-    position: absolute;
-    width: 600px;
-    height: auto;
-    left: 100px;
-    background-color: white;
-
-    /* make sure it starts outside of the screen */
-    top: 1000px;
-    /* the green one is all in the back */
-    z-index: 0;
+  position: absolute;
+  top: 1000px;
+  right: 50px;
+  mix-blend-mode: multiply;
+  background-color: white;
+  z-index: 0;
 }
 
-.square-red {
-    position: absolute;
-    width: 400px;
-    height: 300px;
-    left: 500px;
-    background-color: #ff0000;
-
-    /* make sure it starts outside of the screen */
-    top: 1000px;
-    /* the red one is in the middle */
-    z-index: 1;
+.img_02 {
+  position: absolute;
+  mix-blend-mode: multiply;
+  top: 1000px;
+  left: 50px;
+  /* padding: 20px; */
+  background-color: white;
+  top: 100px;
+  z-index: 0;
 
 }
 
-.square-blue {
-    position: absolute;
-    width: 800px;
-    height: 100px;
-    left: 400px;
-    background-color: #0000ff;
+.img_03 {
+  position: absolute;
+  right: 25px;
+  mix-blend-mode: multiply;
+  background-color: white;
+  margin-top: 1000px;
+  z-index: 0;
 
-    /* make sure it starts outside of the screen */
-    top: 1000px;
-    /* the blue one is in the front */
-    z-index: 2;
 }
 
-.square-orange {
-    position: absolute;
-    width: 400px;
-    height: 200px;
-    left: 20px;
-    background-color: orange;
-
-    /* make sure it starts outside of the screen */
-    top: 500px;
-    /* the blue one is in the front */
-    z-index: 4;
+.img_04 {
+  position: absolute;
+  left: 75px;
+  mix-blend-mode: multiply;
+  background-color: white;
+  margin-top: 1000px;
+  z-index: 0;
 }
+
+.img_05 {
+  position: absolute;
+  mix-blend-mode: multiply;
+  background-color: white;
+  top: 5000px;
+  z-index: 0;
+
+}
+
+.img_06 {
+  position: absolute;
+  mix-blend-mode: multiply;
+  background-color: white;
+  border-radius: 10px;
+  top: 5000px;
+  z-index: 0;
+
+}
+
+
 
 .title{
-  font-size: 100pt;
+  top: 100px;
+  font-family: Superstarregular;
   text-align: center;
-  font-family: times;
+  font-size: 4em;
+  line-height: 1em;
+  color: transparent;
+  text-shadow: 0 0 5px #000000;
+}
+
+.text_01{
+  margin-top: 800px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: Superstarregular;
+  text-align: center;
+  font-size: 2em;
+  line-height: 1.25em;
+  color: transparent;
+  text-shadow: 0 0 5px #000000;
+}
+
+.text_02{
+  margin-top: 1200px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: Superstarregular;
+  text-align: left;
+  font-size: 2em;
+  line-height: 1.25em;
+  color: transparent;
+  text-shadow: 0 0 5px #000000;
+}
+
+.text_03{
+  margin-top: 800px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: Superstarregular;
+  text-align: center;
+  font-size: 2em;
+  line-height: 1.25em;
+  color: transparent;
+  text-shadow: 0 0 5px #000000;
+}
+
+.text_04{
+  margin-top: 1000px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: Superstarregular;
+  text-align: center;
+  font-size:7.5em;
+  line-height: 1em;
+  color: transparent;
+  text-shadow: 0 0 5px #000000;
 }
 
 
 .Diary_04-01{
   position: absolute;
   mix-blend-mode: multiply;
+  top: 250px;
+  z-index: 0;
 }
+
+.Diary_04-02{
+  position: absolute;
+  mix-blend-mode: multiply;
+  top: 550px;
+  z-index: 0;
+}
+
+.Diary_04-03{
+  position: absolute;
+  mix-blend-mode: multiply;
+  top: 250px;
+  z-index: 0;
+}
+
+.Diary_04-04{
+  position: absolute;
+  mix-blend-mode: multiply;
+  top: 750px;
+  z-index: 0;
+}
+
 
 .Diary_06-01{
   position: relative;
+  top: 1250px;
+  z-index: 0;
   mix-blend-mode: multiply;
 }
 
+.Diary_06-02{
+  position: relative;
+  top: 1250px;
+  z-index: 0;
+  mix-blend-mode: multiply;
+}
+
+.Diary_06-03{
+  position: relative;
+  top: 1300px;
+  z-index: 0;
+  mix-blend-mode: multiply;
+}
+
+.Diary_06-04{
+  position: relative;
+  top: 400px;
+  z-index: 0;
+  mix-blend-mode: multiply;
+}
+
+.Diary_06-05{
+  position: relative;
+  top: 450px;
+  z-index: 0;
+  mix-blend-mode: multiply;
+}
+
+.Diary_06-06{
+  position: relative;
+  top: 500px;
+  z-index: 0;
+  mix-blend-mode: multiply;
+}
+
+
+
 .Diary_07-01{
   position: absolute;
+  top: 5000px;
+  z-index: 0;
+  mix-blend-mode: multiply;
+}
+
+.Diary_07-02{
+  position: absolute;
+  top: 5200px;
+  z-index: 0;
   mix-blend-mode: multiply;
 }
 
 .Diary_08-01{
   position: absolute;
+  top: 5400px;
+  z-index: 0;
   mix-blend-mode: multiply;
+}
+
+.Diary_08-02{
+  position: absolute;
+  top: 5600px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+
+.Diary_08-04{
+  position: absolute;
+  top: 5900px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
 }
 
 .Diary_012-01{
   position: absolute;
+  top: 6300px;
   mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_012-02{
+  position: absolute;
+  top: 6500px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_012-03{
+  position: absolute;
+  top: 6700px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_012-04{
+  position: absolute;
+  top: 7300px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
 }
 
 .Diary_015-01{
-  position: relative;
+  position: absolute;
+  top: 8000px;
   mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+.Diary_015-02{
+  position: absolute;
+  top: 8200px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+.Diary_015-03{
+  position: absolute;
+  top: 8400px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
 }
 
 .Diary_016-01{
-  position: relative;
+  position: absolute;
+  top: 8900px;
   mix-blend-mode: multiply;
+  z-index: 0;
+
 }
 
-.Diary_018-01{
-  position: relative;
+.Diary_016-02{
+  position: absolute;
+  top: 9000px;
   mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+
+.Diary_016-03{
+  position: absolute;
+  top: 9400px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+
+.Diary_016-04{
+  position: absolute;
+  top: 9600px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+
+.Diary_018-01{
+  position: absolute;
+  top: 9900px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_018-02{
+  position: absolute;
+  top: 10000px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_018-03{
+  position: absolute;
+  top: 8900px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_018-04{
+  position: absolute;
+  top: 9000px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_022-01{
+  position: absolute;
+  top: 9100px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+}
+
+.Diary_022-02{
+  position: absolute;
+  top: 9500px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_022-03{
+  position: absolute;
+  margin-top: 1000px;
+  top: 10000px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_023-01{
+  position: absolute;
+  top: 10000px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_023-02{
+  position: absolute;
+  top: 11000px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_023-03{
+  position: absolute;
+  top: 11100px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_023-04{
+  position: absolute;
+  top: 11300px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_027-01{
+  position: absolute;
+  top: 11700px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_027-02{
+  position: absolute;
+  top: 11900px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_027-03{
+  position: absolute;
+  top: 12000px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_027-04{
+  position: absolute;
+  top: 12100px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_027-05{
+  position: absolute;
+  top: 12200px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
+}
+
+.Diary_027-06{
+  position: absolute;
+  top: 12300px;
+  mix-blend-mode: multiply;
+  z-index: 0;
+
 }
