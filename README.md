@@ -294,7 +294,7 @@ From analog made diaries to a website with analog elements. First I had to make 
 
 ### **Outcome Links**
 
-[Website](https://github.com/fabiolavdberg/Diaries_Fabiola/Diary/index.html)
+[Website](https://github.com/fabiolavdberg/Diary/index.html)
 
 
 # **Conclusion**
