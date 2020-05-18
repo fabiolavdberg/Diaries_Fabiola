@@ -275,8 +275,16 @@ HTML
 CSS
 
 ### **Results**
+<details>
+<summary>First sketch</summary>
 
 ![Images/website_sketch.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_sketch.png)
+</details>
+
+![Images/website_fabiola.png](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_fabiola.png)
+
+
+![Images/video_01.gif](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/video_01.gif)
 
 ### **Source Links**
 
