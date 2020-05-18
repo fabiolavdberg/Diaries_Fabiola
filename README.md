@@ -285,21 +285,24 @@ CSS
 
 # **Reflection**
 
-in progress
+At the start of this project I was struggling a bit because I was looking a lot at how the diaries looked. The diaries already have a very personal design made by the creator which made a hard for me to make it my own and also archive the work he made. 
+
+The first transcodings also where more based on the look of the diaries and not the content. But in the end I found a way of also incorporating those elements I made first into the website (coding tool) I made in the end.
+
+Looking back now I should have looked more at the content of the diaries. In the end I did incorporate the content of the diaries into the website. At the point of writing this the website still feels unfinished. But I do still have 2 weeks to look at the details and finish the website. 
 
 # **Outcomes**
 
-From analog made diaries to a website with analog elements. First I had to make the analog elements and then implement them in to a digital website. If you go back to transcoding test there you can see how the analog diaries went from a picture to a drawing. Then from a drawing to a painting. It's the same concept, from analog diaries to a digital website. 
-
+The final outcome became a website that would work as an new reading experience. Some of the elements I used where made in other transcodings. The website is a look into Amterdam in the 80’s from the perspective of Fabiola. On the right side you can see photographs of the diaries and on the left side you can see the edited version made by me. The left side is the new experience of reading. There is a combination of content from the diaries and pictures added from that time to make a visualisation of what he says. The website is one page with one really long scroll where you can see all the diaries in order. 
 
 
 ### **Outcome Links**
 
-[Website](https://fabiolavdberg.github.io/Diaries_Fabiola/Diary_02/index.html)
+[Website](http://fabiolavandenberg.com/Fabiola.html)
 
 # **Conclusion**
 
-in progress
+Doing research has always been something I would not always do before a project, but this assignment kind of forced me which was good. I liked working with content I didn’t know much about, I learned a lot about what happend in Amsterdam in the 80’s. The making proces was a bit of a struggle in the beginning but I am happy with the end result.
 
 ## **Bibliography**
 
