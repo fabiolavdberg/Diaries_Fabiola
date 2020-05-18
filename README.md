@@ -263,7 +263,7 @@ The result of this transcoding are a collection of elements made analog by me. T
 
 ### **Description**
 
-The coding tool I made is a website. The website is allows a new way of experiencing the diaries made between 1985 and 1987. Now you can experience them digitally. 
+The coding tool I made is a website. The website is allows a new way of experiencing the diaries made between 1985 and 1987. Now you can experience them digitally.
 
 ### **Aims**
 
