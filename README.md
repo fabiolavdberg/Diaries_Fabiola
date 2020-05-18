@@ -1,5 +1,5 @@
 ![Cover_Image.jpg](https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image.png)
-# Amsterdam in the eighties told though the stories of Fabiola.
+# Amsterdam in the eighties told through the stories of Fabiola.
 
 ### **Table of Contents**
 
