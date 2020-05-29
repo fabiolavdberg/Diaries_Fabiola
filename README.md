@@ -35,9 +35,23 @@ A Collection of 17 diaries made/written by Fabiola. The diaries include a report
 
 Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not chronological reports, but works of art. They offer a candid account of his daily changing moods, from happy, sad, to depressed. Fabiola frequently reminisced in the diaries about his childhood in Germany and later Belgium. Especially interesting are the comments that Fabiola delivers on political events. Sometimes he gives an account of a meeting in the squatters’ environment, and then a demonstration against fascism or for gay rights. [[2]](https://search.iisg.amsterdam/Record/COLL00016) Here is a [link](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku) to pictures of the diaries.
 
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/1.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/01.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/01.JPG" width="100%">](#)
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_04.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_06.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_07.JPG" width="100%">](#)
 |---------|----------|----------|
 
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_08.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_09.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_011.JPG" width="100%">](#)
+|---------|----------|----------|
+
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_012.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_015.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_016.JPG" width="100%">](#)
+|---------|----------|----------|
+
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_017.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_018.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_019.JPG" width="100%">](#)
+|---------|----------|----------|
+
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_021.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_022.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_023.JPG" width="100%">](#)
+|---------|----------|----------|
+
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_024.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_025.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_027.JPG" width="100%">](#)
+|---------|----------|----------|
 <details>
 <summary>All Diaries</summary>
     
