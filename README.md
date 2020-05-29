@@ -200,12 +200,8 @@ This "transcoding" became part of the final result. This was a experiment to see
 ### **Methods**
 
 I used different colors of spray paint that looked like the colors used in the diaries. 
-
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_01.gif" width="100%">](#)|
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_02.gif" width="100%">](#)|
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_01.gif" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_02.gif" width="100%">](#)|
 |---------|----------|
-
-
 
 
 ### **Results**
