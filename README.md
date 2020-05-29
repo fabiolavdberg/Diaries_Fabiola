@@ -35,6 +35,9 @@ A Collection of 17 diaries made/written by Fabiola. The diaries include a report
 
 Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not chronological reports, but works of art. They offer a candid account of his daily changing moods, from happy, sad, to depressed. Fabiola frequently reminisced in the diaries about his childhood in Germany and later Belgium. Especially interesting are the comments that Fabiola delivers on political events. Sometimes he gives an account of a meeting in the squatters’ environment, and then a demonstration against fascism or for gay rights. [[2]](https://search.iisg.amsterdam/Record/COLL00016) Here is a [link](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku) to pictures of the diaries.
 
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/crop_text_01.gif" width="90%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/crop_text_02.gif" width="100%">](#)|
+|---------|----------|
+
 <details>
 <summary>All Diaries</summary>
     
