@@ -193,7 +193,6 @@ This "transcoding" became part of the final result. This was a experiment to see
 
 [<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.50.png" width="100%">](#)
 
----
 
 ### **Methods**
 
@@ -245,7 +244,6 @@ The result of this transcoding are a collection of elements made analog by me. T
 [<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Red_Circles_06.png" width="100%">](#)
 
 </details>
----
 
 ## **Transcoding Tool**
 
