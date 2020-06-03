@@ -3,7 +3,7 @@
 
 ### **Table of Contents**
 
-1. [Artefact]#artefact
+1. [Artefact](#artefact)
     1. [Metadata](https://github.com/fabiolavdberg/Diaries_Fabiola#metadata)
 2. [Research](https://github.com/fabiolavdberg/Diaries_Fabiola#research-h1)
 3. [Transcoding](https://github.com/fabiolavdberg/Diaries_Fabiola#transcoding)
