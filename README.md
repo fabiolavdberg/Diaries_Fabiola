@@ -3,17 +3,17 @@
 
 ### **Table of Contents**
 
-1. [Artefact](https://github.com/fabiolavdberg/Diaries_Fabiola#artefact)
-    1. [Metadata](https://github.com/fabiolavdberg/Diaries_Fabiola#metadata)
-2. [Research](https://github.com/fabiolavdberg/Diaries_Fabiola#research-h1)
-3. [Transcoding](https://github.com/fabiolavdberg/Diaries_Fabiola#transcoding)
-    1. [Transcoding No. 1](https://github.com/fabiolavdberg/Diaries_Fabiola#transcoding-no-1)
-    2. [Transcoding No 2 ](https://github.com/fabiolavdberg/Diaries_Fabiola#transcoding-no-2) 
-    3. [Transcoding Tool](https://github.com/fabiolavdberg/Diaries_Fabiola#transcoding-tool)
-4. [Reflection](https://github.com/fabiolavdberg/Diaries_Fabiola#reflection)
-5. [Outcome](https://github.com/fabiolavdberg/Diaries_Fabiola#outcome)
-6. [Conclusion](https://github.com/fabiolavdberg/Diaries_Fabiola#conclusion)
-7. [Bibliography](https://github.com/fabiolavdberg/Diaries_Fabiola#bibliography)
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research-h1)
+3. [Transcoding](#transcoding)
+    1. [Transcoding No. 1](#transcoding-no-1)
+    2. [Transcoding No 2 ](#transcoding-no-2) 
+    3. [Transcoding Tool](#transcoding-tool)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography)
 
 # **Artefact, Collection of 17 diaries**
 
@@ -29,25 +29,25 @@ A Collection of 17 diaries made/written by Fabiola. The diaries include a report
 | **Medium** | Diaries
 | **Materials** | Various types of material
 | **Date** | 1985-1987
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Diaries_gif.gif" width="60%">](#)| Here you can see the diaries made by Fabiola. They are all handmade with various types of material.
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Diaries_gif.gif" width="60%">]| Here you can see the diaries made by Fabiola. They are all handmade with various types of material.
 
 # Collection of 17 diaries
 
 Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not chronological reports, but works of art. They offer a candid account of his daily changing moods, from happy, sad, to depressed. Fabiola frequently reminisced in the diaries about his childhood in Germany and later Belgium. Especially interesting are the comments that Fabiola delivers on political events. Sometimes he gives an account of a meeting in the squatters’ environment, and then a demonstration against fascism or for gay rights. [[2]](https://search.iisg.amsterdam/Record/COLL00016) Here is a [link](https://drive.google.com/open?id=1hHOJIRWUvFfzKZ-ryD-QP0clewo_T_Ku) to pictures of the diaries.
 
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_04.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_06.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_07.JPG" width="100%">](#)
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_04.JPG" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_06.JPG" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_07.JPG" width="100%">]
 |---------|----------|----------|
 
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_08.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_011.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_012.JPG" width="100%">](#)
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_08.JPG" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_011.JPG" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_012.JPG" width="100%">]
 |---------|----------|----------|
 
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_015.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_016.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_017.JPG" width="100%">](#)
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_015.JPG" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_016.JPG" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_017.JPG" width="100%">]
 |---------|----------|----------|
 
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_018.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_021.jpg" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_023.JPG" width="100%">](#)
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_018.JPG" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_021.jpg" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_023.JPG" width="100%">]
 |---------|----------|----------|
 
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_024.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_025.JPG" width="100%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_027.JPG" width="100%">](#)
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_024.JPG" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_025.JPG" width="100%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek_027.JPG" width="100%">]
 |---------|----------|----------|
 
 <details>
@@ -94,7 +94,7 @@ Fabiola made a series of diaries in 1985, 1986, and 1987. These diaries are not 
 
 Fabiola was the stage name of Peter Alexander van Linden (Weilheim, Germany 1946-Amsterdam 2013). His father was Belgian, his mother German. Shortly after his birth he was handed over to a monastery for adoption. At the age of two he was adopted by a Bavarian aunt. Five years later, he was picked up by his biological mother and taken to Willebroek, a village near Antwerp. There he grew up in a strict Catholic environment where his homosexuality was not accepted. In the sixties he left for the Netherlands, where he studied nursing. Soon he settled in Amsterdam and became known as "living artwork" because of his extravagant and colorful outfit. Fabiola was frequently present in Amsterdam's nightlife and at demonstrations and demonstrations against discrimination and fascism, among other things. [[1]](https://archief.socialhistory.org/en/collections/fabiola-fabulous-and-flamboyant)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Fabiola.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Fabiola.png" width="100%">]
 Fabiola in his studio
 
 ### Research: What is a diary?
@@ -117,7 +117,7 @@ In 1987, the world's first gay memorial in public space, the Homomonument, was o
 
 The squatting movement continued to grow during the 1980s and the police clashed with protestors several times throughout the decade. In early 1980, a controversial conflict took place on Vondelstraat, when police employed tanks to clear out a squat. Later that year, squatters set up demonstrations that challenged Queen Beatrix’s coronation, with dissidents uniting around the slogan ‘Geen woning, geen kroning’ (No housing, no coronation). [[10]](https://theculturetrip.com/europe/the-netherlands/articles/a-brief-history-of-squatting-in-amsterdam/)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/squatters.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/squatters.png" width="100%">]
 
 
 # **Transcoding**
@@ -135,7 +135,7 @@ The first transcoding was about taking out elements from the original diaries. T
 First I took pictures of all the diaries and the started to cut out all the highlighted parts from the diary. For me this was Fabiola's way of telling the reader what was important to him. By taking out only the highlighted part of the text it changes the whole narrative. 
 
 
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/crop_text_01.gif" width="90%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/crop_text_02.gif" width="100%">](#)|
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/crop_text_01.gif" width="90%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/crop_text_02.gif" width="100%">]|
 |---------|----------|
 
 
@@ -152,47 +152,47 @@ The result of this transcoding was a collection of highlighted text from each di
 
 [Dagboek 4](https://drive.google.com/open?id=1D7UlmAbFds6TN8uCEfH95s4eQzOAVvYs)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-06_04.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-06_04.jpg" width="100%">]
 
 [Dagboek 6](https://drive.google.com/open?id=1em0Qao0aITw9y1VKatABhmieukTVqmGK)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-06_05.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-06_05.jpg" width="100%">]
 
 [Dagboek 7](https://drive.google.com/open?id=17d8SmLpjetZW1nHFlV_uOsQfwUnTGjad)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-07_07.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-07_07.jpg" width="100%">]
 
 [Dagboek 8](https://drive.google.com/open?id=19fMP9E62p6R4m-M8d5gxC_vc76O8gKl8)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-08_06.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-08_06.jpg" width="100%">]
 
 [Dagboek 12](https://drive.google.com/open?id=1wK7iAy3MsycSxDZsNOesr3jCFm895M3L)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-12_012.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-12_012.jpg" width="100%">]
 
 [Dagboek 15](https://drive.google.com/open?id=1O7QGETzamIo1UqGEYi4GOuxAfSBIwfNH)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-15_019.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-15_019.jpg" width="100%">]
 
 [Dagboek 16](https://drive.google.com/open?id=1TNV9gXL1nNE6Qhgt2tthBX5wrjVTOxY_)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-16_05.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-16_05.jpg" width="100%">]
 
 [Dagboek 18](https://drive.google.com/open?id=18VYK4yhFnxK7BiSpfzJuIl7c74gUGxDN)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-018_012.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-018_012.jpg" width="100%">]
 
 [Dagboek 22](https://drive.google.com/open?id=1H5gZ6XJ5AgDbxLz6lAWRFiSOZTs69Uer)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-22_024.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-22_024.jpg" width="100%">]
 
 [Dagboek 23](https://drive.google.com/open?id=144cPu5D9XMHxfL9CB-WGNgB4_fgyPUQz)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-23_0100.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-23_0100.jpg" width="100%">]
 
 [Dagboek 27](https://drive.google.com/open?id=1BRbdGOMN9EFjez-CFRdZ336yVBfoAWgp)
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-27_059.jpg" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Dagboek-27_059.jpg" width="100%">]
 
 </details>
 
@@ -205,17 +205,17 @@ The second transcoding is about recreating the elements from the diaries. These 
 
 This "transcoding" became part of the final result. This was a experiment to see what happens when you turn a picture into a drawing, and then turn the drawing into a painting.  
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.25.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.25.png" width="100%">]
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.39.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.39.png" width="100%">]
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.50.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Schermafbeelding_2020-04-05_om_16.33.50.png" width="100%">]
 
 
 ### **Methods**
 
 I used different colors of spray paint that looked like the colors used in the diaries. 
-|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_01.gif" width="80%">](#)|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_02.gif" width="100%">](#)|
+|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_01.gif" width="80%">]|[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/spray_02.gif" width="100%">]|
 |---------|----------|
 
 
@@ -228,37 +228,37 @@ The result of this transcoding are a collection of elements made analog by me. T
 <summary>Details</summary>
 
 [Dagboek 4](https://drive.google.com/open?id=1mK-BUGpiB9-EHdT5mOeOoLL8B3ppt_b-)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Pink_Lines_04.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Pink_Lines_04.png" width="100%">]
 
 [Dagboek 6](https://drive.google.com/open?id=1ABFbYJevMnt9d8YXfOENsvepQvMsT_0M)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Blue_Line_01.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Blue_Line_01.png" width="100%">]
 
 [Dagboek 7](https://drive.google.com/open?id=1j2Tm6pmNd4VE041846OShSmmhGd7WlPf)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Pink_Lines_03.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Pink_Lines_03.png" width="100%">]
 
 [Dagboek 8](https://drive.google.com/open?id=1BZyN1AXRPMA2jl_2yiMINxGhNUBa5IPn)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Pink_Lines_05.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Pink_Lines_05.png" width="100%">]
 
 [Dagboek 12](https://drive.google.com/open?id=1SvcluMuOXR5NhYc2Srv1F4j-J12MRsas)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Pink_Lines_01.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Pink_Lines_01.png" width="100%">]
 
 [Dagboek 15](https://drive.google.com/open?id=1WDL_tcRDfMQDjl8ebVaEjd-tI3owPUzT)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Red_Line_01.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Red_Line_01.png" width="100%">]
 
 [Dagboek 16](https://drive.google.com/open?id=1xnChVDA0gJKjwvhWVrisZR_OMIGMATVt)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Lines_02.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Lines_02.png" width="100%">]
 
 [Dagboek 18](https://drive.google.com/open?id=1YaRtAZp96vhQAyQ2blratkBHUGEe1zqH)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Yellow_Line_01.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Yellow_Line_01.png" width="100%">]
 
 [Dagboek 22](https://drive.google.com/open?id=1bEkUiDskcWHYCbEHOLO0vlAKjDQK-dIy)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Lines_05.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Lines_05.png" width="100%">]
 
 [Dagboek 23](https://drive.google.com/open?id=1wf__BXgR9Azryo7kB9omuJsatXMqZPug)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Lines_01.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Black_Lines_01.png" width="100%">]
 
 [Dagboek 27](https://drive.google.com/open?id=1Xv4MzRqQbwCtTIKr8lUW7Tg8B_a_pHDI)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Red_Circles_06.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Red_Circles_06.png" width="100%">]
 
 </details>
 
@@ -281,12 +281,12 @@ CSS
 <details>
 <summary>First sketch</summary>
     
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_sketch.png" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_sketch.png" width="100%">]
 
 </details>
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_fabiola.png" width="100%">](#)
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/video_01.gif" width="100%">](#)
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_fabiola.png" width="100%">]
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/video_01.gif" width="100%">]
 
 ### **Source Links**
 
