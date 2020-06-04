@@ -1,4 +1,5 @@
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image_Fabiola_1.png" width="100%">]
+<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image_Fabiola_1.png" width="100%">
+
 # Amsterdam in the eighties told through the stories of Fabiola
 
 ### **Table of Contents**
@@ -281,12 +282,12 @@ CSS
 <details>
 <summary>First sketch</summary>
     
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_sketch.png" width="100%">]
+<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_sketch.png" width="100%">
 
 </details>
 
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_fabiola.png" width="100%">]
-[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/video_01.gif" width="100%">]
+<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/website_fabiola.png" width="100%">
+<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/video_01.gif" width="100%">
 
 ### **Source Links**
 
