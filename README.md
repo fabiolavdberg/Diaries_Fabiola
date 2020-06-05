@@ -1,5 +1,4 @@
-<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image_Fabiola_1.png" width="100%">
-
+[<img src="https://github.com/fabiolavdberg/Diaries_Fabiola/blob/master/Images/Cover_Image_Fabiola_1.png" width="100%">](#)
 # Amsterdam in the eighties told through the stories of Fabiola
 
 ### **Table of Contents**
